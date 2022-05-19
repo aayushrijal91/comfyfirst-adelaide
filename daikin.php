@@ -61,7 +61,8 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Daikin</p>
 									</div>
 								</div>
-								<p>This brand is extremely popular and well known for producing high-quality appliances used to cool big or compact spaces. If you are installing the equipment in a new build or as part of a remodel, Daikin's extensive range is likely to provide the appropriate option.</p>
+								<p>This brand is immensely popular and renowned for manufacturing high-quality cooling appliances for large or small spaces. If the equipment is being installed in a new structure or as part of a revamp, Daikin's impressive array of products is likely to contain a suitable option.</p>
+								<p>In both existing and new homes, heat pumps and ducting AC units provide comfort throughout the property. Typically, indoor units are installed under floorboards or enclosed in the ceiling. Flexible ducting will run throughout the residence, delivering conditioned air via grills. Outside the house is the compressor. The company offers a five-year parts warranty on their ducted, split system, as well as multi split air conditioners bought and installed in households across the country.</p>
 							</div>
 						</div>
 					</div>
@@ -81,9 +82,13 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 "><?= $banner ?></p>
+							<p class="display-5 fw-bold line-height-1 ">Daikin Air Conditioners in Adelaide</p>
 							<hr class="hr-h hr-white ">
-							<p>Heat pumps and ducted air conditioner units provide whole-house comfort in both existing and new houses. Indoor units are commonly installed underneath the floor or even in the ceiling. There will be bendable ducting running all through the home, delivering conditioned air through grills. The compressor is located outside the house. The company also provides 5-year parts warranties on ducted, split system, and multi split ACs purchased and installed in residences across the country.</p>
+							<p>Split wall air conditioners are ideal for cooling a single room or spaces in the house. The brand offers several models, and you can choose either a wall-mounted or a floor-standing unit, including the following:</p>
+							<ul>
+								<li>Ducted air conditioners</li>
+								<li>Multi Split Air Conditioners</li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -120,14 +125,13 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>Split wall ACs are ideal for air-cooling a specific room/space in the home. There are several versions available from the brand, and you may pick between wall-mounted and floor standing units such as:</p>
 							<ul>
-								<li><strong>Ducted air conditioners</strong> — This type of air conditioner may work in two or more rooms. It means you may run the system in your living room in the daytime and in many bedrooms during the night</li>
-								<li><strong>Multi Split Air Conditioners</strong> — With a single outside unit connected to several interior units, this system can cool/heat various rooms. You may configure, regulate, and control each indoor system to your liking.</li>
+								<li><strong>Ducted air conditioners</strong> — These ACs are capable of cooling multiple rooms simultaneously. This enables you to run the unit in your living room during the day or in multiple bedrooms at night.</li>
+								<li><strong>Multi Split Air Conditioners</strong> — Using a single outdoor unit in conjunction with multiple interior units, a multi-split AC is capable of cooling/heating multiple rooms. You have complete control over how each indoor system is configured, regulated, and controlled.</li>
 							</ul>
-							<p>We can assist you in installing the AC you choose. Our team is ready to give you information about these products so you can decide which one is ideal for you.</p>
-
-							<p>Our experts can assess, evaluate, and install an AC that works best for your requirements. For details about our high grade Daikin sales & installation solutions, please call Comfy First <?= $global_city ?> at - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests, and one of our experts will call you shortly. </p>
+							<p>We can help you with the installation of the air conditioner of your choice. Our team is ready to provide you with details about the brands and its products, so you can easily determine which the best fit is for you. They will evaluate your needs and set up an air conditioner that is optimal for your needs.</p>
+							<p>We at Comfy First Adelaide are a leading company in this field and we offer the best Daikin installation, maintenance, repair, and replacement services. </p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

@@ -61,11 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Various Brivis Air Conditioners in <?= $global_city ?></p>
 									</div>
 								</div>
-								<p>Brivis is one of the country's main air conditioner manufacturers. They have been in this business for 50 years and produce excellent air conditioning systems. Brivis' products are designed to withstand unexpected, harsh weather conditions, making them ideal for <?= $global_city ?>'s environment. They also provide a 10-year warranty on all their ACs, and the firm has received many accolades throughout the years.</p>
+								<p>Brivis is a major air conditioner manufacturer in the country. They have been in this sector for 50 years and manufacture excellent systems. Brivis' products are engineered to survive unexpected, inclement climatic conditions, making them suitable for Adelaide's climate. They also offer a 10-year warranty on their air conditioners, and the company has received numerous awards over the years.</p>
 								<p>The company's primary series are:</p>
 								<ul>
 									<li><b>Brivis Star Pro Line</b></li>
-									<li><b>Dual Comfort Line</b></li>
+									<li><b>Comfort Line Dual</b></li>
 								</ul>
 							</div>
 						</div>
@@ -89,7 +89,7 @@ include __DIR__ . '/src/banner.php';
 							<p class="display-5 fw-bold line-height-1 ">Brivis Star Pro Line</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Their high efficiency ducted gas heater models include 4, 5, & 6 star units. These devices are smartly designed to use significantly less gas than traditional ducted gas units. The Pro Series employs a cutting-edge 4-Pass Heat Exchanger and efficient Modulating Gas Valve technology. It signifies you'll get more efficiency as well as better temperature management. When you incorporate the Brivis ZonePlusTM to the StarPro gas heater, you may use the unit for up to four zones.</p>
+							<p>These highly efficient ducted gas heater products have ratings ranging from 4 to 6 stars and are cleverly designed to use far less fuel than standard ducted gas units. The Pro Series features a highly advanced Pass Heat Exchanger and energy-saving Modulating Gas Valve technology. It indicates you will get increased efficiency as well as improved temperature management. Adding the Brivis ZonePlusTM to this system allows you to use it to heat between one and four zones.</p>
 						</div>
 					</div>
 				</div>
@@ -126,11 +126,10 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-
-							<p>This line blends refrigerate cooling with efficient ducted gas heating to provide the ideal and cost-effective climate management solution for your entire house. The Brivis StarPro line of Ducted Gas Heaters allow you to use the brand's ICETM without replacing any existing vents or ductwork. As a result, using Brivis DualComfortTM technology saves you a substantial amount of money and time.</p>
-							<p>Whatever Brivis AC you desire, we are here to provide you with the ideal solution. Our specialists will give you all the information you want about these units, allowing you to make a more informed decision about which one to choose.</p>
-
-							<p>Our experts can assess, evaluate, and install an AC that works best for your requirements. For details about our high grade Brivis sales & installation solutions, please call Comfy First <?= $global_city ?> at - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests, and one of our experts will call you shortly. </p>
+							<p>This line combines refrigerated cooling with effective ducted gas heating, providing the best and most cost-effective climate control solution for the entire home. Brivis StarPro Ducted Gas Heaters can be used with the same company's ICETM without substituting any original vents or ducting. As a result, utilising Brivis DualComfortTM technology will save you both money and time.</p>
+							<p>Whichever Brivis AC you require, we are here to help you find the best solution. Our experts will provide you with all of the information you require about such units, enabling you to make a smart decision about the right unit for your property.</p>
+							<p>Our professionals can assess, evaluate, and install the best air conditioner for your needs. We at Comfy First Adelaide are a leading company in this field and we offer the best Brivis installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

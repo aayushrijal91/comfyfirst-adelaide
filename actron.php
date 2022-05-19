@@ -58,14 +58,14 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">Actron Air Conditioners in <?= $global_city ?></p>
+										<p class=" text-dark display-2 line-height-1 fw-bold">Adelaide Actron Air Conditioners</p>
 									</div>
 								</div>
-								<p> It is one of the finest air conditioning brands available currently on the market. These efficient units can supply your family and property with efficient comfort. Every model the company brings to market is designed perfectly. It works in temperatures ranging from -10°C to 50°C.</p>
+								<p>It is one of the best air conditioning options on the market right now. These high performance units can provide consistent comfort to your household and property. Every model that the company launches is flawlessly designed and is effective in temperatures in the -10°C to 50°C range.</p>
 
-								<p>Actron air conditioners are ideal for the city’s variable weather because of their high performance. They provide a diverse selection of ducted AC systems designed to meet a variety of needs. Many of these machines use digitization and provide good performance as well as energy savings.</p>
+								<p>Because of their high performance, Actron air conditioners are perfect for the city's variable climate. They offer a wide range of ducted air conditioners to meet a series of needs. Many of these systems use digitalisation and provide great performance while saving you energy.</p>
 
-								<p>Individual indoor units linked to a single outside unit allow ducted air cons to cool or heat many rooms. You may also configure, schedule, and manage each indoor unit independently to the desired room temperature.</p>
+								<p>Individual components linked to a single outdoor unit enable ducted air conditioning to cool or heat multiple rooms. You can also independently customise, schedule, and maintain each indoor unit to obtain the right room temperature.</p>
 							</div>
 						</div>
 					</div>
@@ -88,7 +88,7 @@ include __DIR__ . '/src/banner.php';
 							<p class="display-5 fw-bold line-height-1 "><?= $banner ?></p>
 							<hr class="hr-h hr-white ">
 
-							<p>For constant comfort in your house all year around, nothing beats ducted systems. In a metropolis like <?= $global_city ?>, though, you want durable and robust ducted air conditioners, such as those manufactured by Actron.</p>
+							<p>Nothing surpasses ducted systems for year-round comfort in your home. In a city like Adelaide, however, you need ducted air conditioners that are both durable and robust, such as those made by Actron.</p>
 						</div>
 					</div>
 				</div>
@@ -104,7 +104,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose Actron Air Conditioners?</p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Invest in Actron Air Conditioners?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -126,16 +126,16 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are many of other reasons to choose these air conditioning units, such as:</p>
+							<p>There are numerous other reasons to select these air cons, including:</p>
 							<ul>
-								<li> Actron is a well-known Australian manufacturer of world class ACs.</li>
-								<li>In locations where you work, live, and play, these products deliver efficient, exceptional, and clean comfort.</li>
-								<li>They have a strong dealer network, which means you will receive good after-sales service during the warranty period.</li>
-								<li>Every air conditioner is designed to work effectively and perform for a long time.</li>
+								<li>Actron is a renowned Australian manufacturer of high-quality air conditioners.</li>
+								<li>These products provide efficient, clean and consistent comfort in commercial and residential settings.</li>
+								<li>They have a solid dealer network, so you will receive excellent after-sales customer support during the manufacturer's warranty period.</li>
+								<li>Every air con is built to work efficiently and last a long time.</li>
 							</ul>
 
-							<p>Our team can assess, plan and then install an air conditioning system best suited to your needs. For any more information about our Actron sales and installation services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>.</p>
-							<p>You can also send us your queries and requests through this online form and one of our team members will contact you shortly. They will take the time to discuss your requirements and provide the best services.</p>
+							<p>Our experts can assess, plan, and install the best air conditioning system for your needs. We at Comfy First Adelaide are a leading company in this field and we offer the best Actron installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

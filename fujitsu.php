@@ -61,7 +61,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Fujitsu</p>
 									</div>
 								</div>
-								<p>For years, Fujitsu has been producing high-quality, dependable, and energy-efficient equipment. Their exceptional goods are backed-up by excellent customer support, making them a leading air conditioning manufacturer and a valued company.</p>
+								<p>Fujitsu has been manufacturing high quality, reliable, and energy-efficient ACs for many years. Their exceptional products are backed up by outstanding customer service, establishing them as a top air conditioning manufacturing company.</p>
 							</div>
 						</div>
 					</div>
@@ -84,7 +84,7 @@ include __DIR__ . '/src/banner.php';
 							<p class="display-5 fw-bold line-height-1 ">Fujitsu Air Conditioners</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Their goods are energy-efficient, dependable, and durable. These air conditioning systems can operate well in <?= $global_city ?>'s fluctuating weather conditions, for several years with regular maintenance.</p>
+							<p>Their products are durable, energy-efficient, and long lasting. With regular maintenance, these air cons can operate effectively in Adelaide's changing weather conditions for several years.</p>
 						</div>
 					</div>
 				</div>
@@ -100,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Range of Fujitsu Air Conditioners in <?= $global_city ?></p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Air Conditioners from Fujitsu in Adelaide</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -122,17 +122,16 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>The company manufactures a wide range of products to meet various demands, including:</p>
+							<p>To meet a variety of needs, the company produces a wide range of products, including:</p>
 
 							<ul>
-
-								<li><strong>Split wall Systems</strong> - These split units are ideal for air conditioning a given area of your home or a single room. The company offers a variety of wall-mounted/ floor-standing versions to select from, and you will find one that meets your preferences based on the setting and layout of your space.</li>
-								<li><strong>Ducted Units</strong> - Fujitsu's Ducted AC unit may function in two or more spaces, allowing you to air condition the family room during the day and your bedrooms later at night.</li>
-								<li><strong>Multi split Units</strong> - These are suitable for houses where numerous rooms must be heated/cooled at the same time. The system consists of a single external unit linked to many indoor units. You may also regulate each indoor unit separately.</li>
+								<li><strong>Split wall Systems</strong> are ideal for air-conditioning a specific area or a single room in your home. The company provides various wall-mounted/floor-standing models, and you will find one, which meets your needs depending on the place and layout of your property.</li>
+								<li><strong>Ducted Units</strong> can operate in two or more rooms, allowing you to cool the living room in the daytime and bedrooms later at night.</li>
+								<li><strong>Multi split Units</strong> are ideal for homes with multiple rooms that need to be cooled/heated simultaneously. The system is made up of a single outdoor unit that is linked to a number of indoor units. You can also control each of the latter independently.</li>
 							</ul>
-							<p>Whichever Fujitsu AC system you need installed in your home, we are here to assist you make an informed decision. Our experts work closely with you to determine what works best for your needs before coming up with insights and advice. They will offer cost-effective solutions, keeping your budget in view so that you get value for money.</p>
-
-							<p>Our experts have the professionalism and knowledge to install an AC in line with manufacturer specifications. For details about our high grade Fujitsu sales & installation solutions, please call Comfy First <?= $global_city ?> at - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests, and one of our experts will call you shortly. </p>
+							<p>We are here to make a well - informed decision about which Fujitsu AC you want in your home. Before providing insights and advice, our professionals work very closely with you to find out what works optimally for your needs. They will provide cost-effective solutions while keeping your budget in mind, ensuring that you get good value for money.</p>
+							<p>Our professionals have the competence and expertise required to install an air conditioner in accordance with manufacturer recommendations. We at Comfy First Adelaide are a leading company in this field and we offer the best Fujitsu installation, maintenance, repair, and replacement services. </p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">
