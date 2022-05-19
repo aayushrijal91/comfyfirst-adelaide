@@ -61,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Fabric Duct Systems</p>
 									</div>
 								</div>
-								<p>Standard ducting systems are commonly built using various hard materials such as metals. These materials are sturdy but their installation and maintenance can be cumbersome. This is why we always recommend to our clients that they opt for fabric ducting installations. These systems are durable, reliable and efficient and we have used these products in many projects over the years. </p>
+								<p>Various hard materials, like metals, are widely used to construct standard ductwork. Although these materials are durable, they can be difficult to install and maintain. As a result, we always advise our clients to go with cloth ducting solutions. These solutions are long-lasting, dependable, and effective, and we've utilised them in a variety of projects throughout the years.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,20 +81,18 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4">Why Opt For Fabric Ducts Systems In <?= $global_city ?>?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4">Why Should You Use Fabric Ducts in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Fabric ducting systems are customizable and flexible. There are many reasons to opt for these such as:</p>
+							<p>Fabric ducts are versatile and adjustable. There are numerous advantages to using them, including:</p>
 							<ul>
-
-								<li>Available in quarter-round, round, and semi-round combinations.</li>
-								<li>The ducting is made from resilient and long lasting woven fabric</li>
-								<li>Since porous fabrics is used to make these fabrics, you never have to be concerned about condensation. </li>
-								<li>The ducts are eco-friendly because the fabric can be recycled, repurposed and disposed of responsibly.</li>
-								<li>Fabric ducting are also affordable because transportation and installation are easy</li>
+								<li>The ducting is made of woven fabric that is resilient and robust</li>
+								<li>Choose from quarter-round, round or semi-round configurations</li>
+								<li>You won't have to worry about humidity because these materials are made of permeable fibres.</li>
+								<li>Since the fabric can be reused, used, and disposed of appropriately, the ducts are eco-friendly.</li>
+								<li>Fabric ducting is also cost effective because it is simple to carry and install.</li>
+								<li>Fabric ducts are easy to install, operate, and repair</li>
 							</ul>
-
-
 						</div>
 					</div>
 				</div>
@@ -112,7 +108,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">How We Help With Fabric Duct System Installations </p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Our High Grade Fabric Duct System Installations</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -134,10 +130,11 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>We can install, service, and maintain fabric ducts effectively. Our team will take aspects such as your purpose, foot traffic, and property size, etc. into consideration before providing the best solutions. We customize our services so that you get installations that will provide you with long-term value. If you want fabric duct systems in your business premises that will be durable and last long, you must choose high-quality equipment and have it professionally installed. </p>
+							<p>Before recommending the finest solutions, our staff will analyse factors such as your objectives, foot traffic, and site size, among others. We tailor our services to ensure that you receive solutions with long-term value. If you want sturdy and resilient cloth duct systems in your workplace, you need invest in superior equipment and have it expertly installed.</p>
 
-							<p>As a reputable and skilled business dedicated to providing cost-effective solutions to commercial customers, we offer repairs, installation and the replacement of different types of commercial air conditioning systems and related components. For the best Fabric Duct Systems, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests. One of our team members will call you shortly. </p>
+							<p>We offer maintenance, setup, and repair of various types of commercial air con systems and related components. We are a respected and skilled business dedicated to offering affordable solutions to commercial clients.</p>
 
+							<p>For the best <?= $title ?> services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> to send us your queries and requests. One of our team members will call you shortly.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

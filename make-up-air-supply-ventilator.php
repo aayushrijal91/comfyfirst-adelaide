@@ -64,10 +64,8 @@ include __DIR__ . '/src/banner.php';
 								<p>Modern residences are smaller, more insulated, making them more energy-efficient. Unless the occupants open a door or windows, there isn't much scope for the outdoor air to enter. While this helps to preserve the interior environment and lessens the load on a property's air-conditioning system, it poses other issues, such as the quantity of air supply accessible in your house. Installing a make-up air supply ventilator is the best way to overcome this issue.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -89,7 +87,6 @@ include __DIR__ . '/src/banner.php';
 							<p>This device replaces a room's air supply. Exhaust fans in this system remove air that cannot be properly recirculated. Because there are limited ways for fresh air to enter your home, you'll need a gadget to refill it. Efficient make-up air supply equipment pulls in fresh, tempered air and distributes it throughout your home, making the space more comfortable.</p>
 
 							<p>The ventilator is available in a variety of sizes and shapes. Some are simply ducts that enable natural airflow, while others are large-scale commercial equipment. Our professional specialists identify the type of system you want and propose residential or commercial solutions that will work for you.</p>
-
 						</div>
 					</div>
 				</div>
@@ -127,10 +124,10 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>We are an insured and fully licenced company that provides our clients with a wide range of air-conditioning systems. We have extensive industry experience and assist you with any of your professional installation needs. Before providing relevant solutions at a reasonable cost, our experts take the time to listen to and clearly understand your requirements. </p>
+							<p>We are an insured and fully licenced company that provides our clients with a wide range of air-conditioning systems. We have extensive industry experience and assist you with any of your professional AC installation needs. Before providing relevant solutions at a reasonable cost, our experts take the time to listen to and clearly understand your requirements.</p>
 
-							<p>Our technicians also repair, service, and replace various types of commercial air conditioning and associated equipment. For the best Make-Up Air Supply Ventilator services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests. One of our team members will call you shortly. </p>
-
+							<p>Our technicians also repair, service, and replace various types of commercial air conditioning and associated equipment.</p>
+							<p>For the best <?= $title ?> services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> to send us your queries and requests. One of our team members will call you shortly.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

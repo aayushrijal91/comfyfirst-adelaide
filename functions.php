@@ -1,12 +1,12 @@
 <?php
-$global_city = 'Melbourne';
+$global_city = 'Adelaide';
 $site = "ComfyFirst " . $global_city;
 $phone = '1300 775 634';
 $email = 'info@comfyfirst.com.au';
 $address = 'Unit 6, 8 Jullian Close, Banksmeadow, NSW 2019';
 
 $actual_link = "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-$domain = "http://$_SERVER[HTTP_HOST]/projects/cf";
+$domain = "http://$_SERVER[HTTP_HOST]/projects/comfyfirst-adelaide";
 
 $site_key = '6LfKepUUAAAAAA5yachgCAPVFrUR1rXk036Hqf8r';
 $secret = '6LfKepUUAAAAAPhqp_QISjkeMBcg75dZtXfHI4n9';
@@ -139,20 +139,19 @@ $air_con_brands = [
 ];
 
 $commercial_air_con = [
+  // 'Fabric Ductwork / Fabric Ducting' => 'fabric-ductwork-fabric-ducting',
+  // 'Mechanical Ventilation' => 'mechanical-ventilation',
+  'Car Park Supply Systems' => 'car-park-supply-systems',
   'Commercial Air Conditioning' => 'commercial-airconditioning',
   'Commercial Range Hood' => 'commercial-range-hood',
-  'Fabric Duct Systems' => 'fabric-duct-systems',
-  'Fabric Ductwork / Fabric Ducting' => 'fabric-ductwork-fabric-ducting',
-  'Indoor Pool Ventilation' => 'indoor-pool-ventilation',
   'Commercial Exhaust Fans Installation' => 'commercial-exhaust-fans-installation',
-  'Pool Package Air Conditioning' => 'pool-package-air-conditioning',
-  'Make-Up Air Supply Ventilator' => 'make-up-air-supply-ventilator',
-  'Car Park Supply Systems' => 'car-park-supply-systems',
-  'Stair Pressurisation System' => 'stair-pressurisation-system',
-  'Stair Pressurisation systems' => 'stair-pressurisation-systems',
+  'Fabric Duct Systems' => 'fabric-duct-systems',
+  'Indoor Pool Ventilation' => 'indoor-pool-ventilation',
   'Jet Fan Installation' => 'jet-fan-installation',
+  'Make-Up Air Supply Ventilator' => 'make-up-air-supply-ventilator',
+  'Pool Package Air Conditioning' => 'pool-package-air-conditioning',
+  'Stair Pressurisation System' => 'stair-pressurisation-system',
   'Commercial Ventilation' => 'commercial-ventilation',
-  'Mechanical Ventilation' => 'mechanical-ventilation',
 ];
 
 $fmenu = [
@@ -213,13 +212,6 @@ $services = [
   'ElecFirst' => [],
   'ComfyFirst' => [
     'Heating Services' => $heating_services,
-    'Hydronic Heating' => [
-      'Under Floor Heating' => 'service-under-floor-heating',
-      'Boilers' => 'service-boilers',
-      'Combi Boilers' => 'service-combi-boilers',
-      'Heated Towel Rails' => 'service-heated-towel-rails',
-      'Panel Power Flush' => 'service-panel-power-flush',
-    ],
     'Air Conditioning Types' => $air_con_types,
     'Air Conditioning Brands' => $air_con_brands,
     'Commercial Air Conditioning' => $commercial_air_con,

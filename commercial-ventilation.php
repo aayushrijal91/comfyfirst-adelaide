@@ -61,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Commercial Ventilation</p>
 									</div>
 								</div>
-								<p>Indoor spaces can quickly develop a stale and musty feel without proper ventilation. Properly ventilated spaces help maintain a pleasant and comfortable atmosphere in indoor areas. This aspect matters a great deal in commercial settings because these areas experience higher foot traffic. Regardless of what your commercial ventilation requirements are, we can help. </p>
+								<p>Without adequate ventilation, interior areas can quickly become stagnant and musty. Proper ventilation helps maintain a comfortable and pleasant indoor environment. This is especially important in commercial settings, where there is a lot of foot traffic. We can assist you with any of your commercial ventilation needs.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,18 +81,16 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4">What is a Commercial Ventilation System?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4">What exactly is a Commercial Ventilation System in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Commercial ventilation systems comprise of filters, fans and vents that help improve indoor air quality. The primary functions of these systems are:</p>
+							<p>Filters, vents and fans are components of ventilation systems that help to improve indoor air quality in the commercial settings. These systems' main functions are:</p>
 							<ul>
-
-								<li>Circulating air from the air conditioning systems to your property’s various areas </li>
-								<li>Drawing out stale air from lounge areas, offices, bathrooms, and other enclosed spaces</li>
-								<li>Removing debris and dust from the air to circulate air indoors</li>
-								<li>Helping to maintain a comfortable environment when used in tandem with the air conditioning system</li>
+								<li>Circulating air to the various areas of your property</li>
+								<li>Removing stale air from lounges, offices, as well as other enclosed areas like washrooms</li>
+								<li>Removing dust and fine particulates to allow pure air to circulate inside</li>
+								<li>When used in conjunction with an effective air conditioner, it helps to maintain a comfortable atmosphere.</li>
 							</ul>
-
 						</div>
 					</div>
 				</div>
@@ -110,7 +106,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">High Grade Commercial Ventilation Solutions </p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Commercial Ventilation Solutions of the Highest Quality</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -132,12 +128,9 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>Every property is different and each customer has unique requirements. This is exactly whey we always adopt a customised approach in all our work. Our team is skilled, knowledgeable, and willing to help you with information regarding the different types of systems available and their workings. We offer effective solutions and our specialists first properly grasp your requirements, before offering suitable solutions.</p>
-
-							<p>We are a well-known, licenced operator, providing business clients with a diverse assortment of commercial ventilation solutions. We have extensive industry experience and can assist you with top-notch AC systems. Our team can also handle all types of replacements, repairs and maintenance of these units. </p>
-
-							<p>We incorporate proven, modern technology in our processes to ensure that your systems' function well for many years. For the best commercial ventilation services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests. One of our team members will call you shortly. </p>
-
+							<p>Each property is unique, as are the needs of each customer. This is precisely why we always take a tailored approach to all of our work. Our highly skilled team is knowledgeable, and eager to offer information about the various systems and their workings. We provide effective solutions, and our experts thoroughly understand your needs before recommending appropriate solutions.</p>
+							<p>We are a credible and certified operator offering a wide range of commercial ventilation solutions to many business clients. We have vast industry experience, provide high-quality air conditioning systems, and handle replacements, repairs and maintenance of these units. We use modern technology and the best protocols to ensure that your ventilation units perform well for a long time.</p>
+							<p>For the best <?= $title ?> services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> to send us your queries and requests. One of our team members will call you shortly.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

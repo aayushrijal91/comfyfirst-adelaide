@@ -1,7 +1,7 @@
 <?php
 include __DIR__ . '/src/header.php';
 $title = 'Commercial Exhaust Fans Installation';
-$description = 'Offering a wide range of Blocked Drains '.$global_city.' services. We are experts in unblocking drain treatments. Call us now on 1300 775 634 to discover more.';
+$description = 'Offering a wide range of Blocked Drains ' . $global_city . ' services. We are experts in unblocking drain treatments. Call us now on 1300 775 634 to discover more.';
 $imgfolder = 'ducted';
 
 $banner = 'Commercial Exhaust Fans Installation';
@@ -20,14 +20,22 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center justify-content-between">
 					<div class="col-auto">
 						<div class="row align-items-center">
-							<div class="col-md text-center"><p class="mb-md-0"><a href="<?=$domain?>/services" class="btn btn-outline-danger rounded-pill text-nowrap"><i class="fal fa-long-arrow-left me-2"></i>View All Services</a></p></div>
-							<div class="col-md text-center"><p class="text-dark mb-md-0">See Full Range of Services</p></div>
+							<div class="col-md text-center">
+								<p class="mb-md-0"><a href="<?= $domain ?>/services" class="btn btn-outline-danger rounded-pill text-nowrap"><i class="fal fa-long-arrow-left me-2"></i>View All Services</a></p>
+							</div>
+							<div class="col-md text-center">
+								<p class="text-dark mb-md-0">See Full Range of Services</p>
+							</div>
 						</div>
 					</div>
 					<div class="col-auto ms-md-auto">
 						<div class="row align-items-center">
-							<div class="col-md text-center"><p class="text-dark text-nowrap mb-md-0"><b>Best Value</b> with Our HomeFirst Membership</p></div>
-							<div class="col-md text-center"><p class="mb-md-0"><a href="<?=$domain?>/membership" class="btn btn-danger rounded-pill">See Membership</a></p></div>
+							<div class="col-md text-center">
+								<p class="text-dark text-nowrap mb-md-0"><b>Best Value</b> with Our HomeFirst Membership</p>
+							</div>
+							<div class="col-md text-center">
+								<p class="mb-md-0"><a href="<?= $domain ?>/membership" class="btn btn-danger rounded-pill">See Membership</a></p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -53,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Commercial Exhaust Fans Installation</p>
 									</div>
 								</div>
-								<p>Commercial exhaust fans installation helps to maintain a room's air quality by removing stale, stuffy air and replacing it with clean and fresh air. This equipment requires routine maintenance to operate properly, since they are prone to attracting dirt and filth and regular maintenance is crucial as well. </p>
+								<p>By eliminating stale, uncomfortable air and exchanging it with fresh, clean air, commercial exhaust fans help to maintain a house's air quality. Because they are susceptible to accumulating filth and dirt, this machinery needs periodic maintenance to function correctly.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -75,16 +81,14 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4">What are Commercial Exhaust Fans?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4">What are Commercial Exhaust Fans in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white ">
 
-							<p>These are big, commercial-grade devices. They are frequently installed in hotels, crowded rooms, industrial kitchens and areas susceptible to the accumulation of pollutants, heated air, and excess amounts of dust particles. The fan rotates counter-clockwise, sucking dirty air from the room. This air is vented outdoors, preventing it from cycling back into indoor areas.</p>
+							<p>These large, industrial-strength devices are commonly seen in hotels, busy areas, industrial kitchens, and other places where pollutants, warm air, and excessive dust particles can build up. The fan spins counter clockwise, drawing the unclean air out of the room. This air is expelled outside, preventing it from returning to the building.</p>
 
-							<p>By sucking in the air, a depressurized condition is created within, which draws cold, fresh air indoors. Certain commercial exhaust fans are quite powerful, necessitating the use of make-up air ventilators.</p>
-
-
+							<p>By drawing in the air, a depressurized environment is created within, allowing cold, fresh air to enter. Because some commercial exhaust fans are strong, make-up air ventilators are required to be installed.</p>
 						</div>
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
@@ -98,7 +102,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Best Quality Commercial Exhaust Fan Installation in <?= $global_city ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Adelaide's High Grade Commercial Exhaust Fan Installations</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -120,14 +124,16 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>You must pick high-quality components and superior installation if you want long-lasting exhaust fans in your commercial setting. As a renowned and professional company devoted to offering efficient solutions to corporate clients, and individual businesses, we specialise in the maintenance, replacement, and installation of all brands and models of commercial AC systems.</p> 
-
-							<p>We will provide you with all the details you need about various products and will make sure that the installation is as per manufacturer instructions- that helps keep the warranty valid, ensuring that the system functions perfectly for a long time. After the warranty period we will also design the perfect maintenance plan to keep the system working perfectly. </p>
-
-							<p>For the best Commercial Exhaust Fans Installation services, please call Comfy First <?= $global_city ?> on - <?=$phone?>. Alternatively, use this Online Form to send us your queries and requests. One of our team members will call you shortly. </p>
-
+							<p>There are many reasons to opt for our services, such as:</p>
+							<ul>
+								<li>If you want durable exhaust fans in your business setting, you'll need high-quality parts and expert installation. We specialise in the service, replacement, and repair of all brands and types of commercial air conditioning systems.</li>
+								<li>We are a reputable and professional firm dedicated to providing efficient services to clients across the region.</li>
+								<li>We'll provide you with the information and detailed you need about various products and will tackle the installation safely and to industry standards. It helps keep the product warranty valid, ensuring the system’s performance.</li>
+								<li>We will also create a flawless maintenance plan to keep the unit functioning smoothly post expiry of the warranty period.</li>
+							</ul>
+							<p>For the best <?= $title ?> services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> to send us your queries and requests. One of our team members will call you shortly.</p>
 						</div>
-					</div>	
+					</div>
 					<div class="col-xxl-6 align-self-end">
 						<?= lazyImg("split/family.png", randalts($alts), "ps-xxl-5") ?>
 					</div>
@@ -142,27 +148,27 @@ include __DIR__ . '/src/banner.php';
 		<div class="row justify-content-center">
 			<div class="col-xl-9">
 				<div class="row">
-					<?php $sctas=[
-						'On-time Guaranteed'=>"With ComfyFirst you can be so sure of on-time service that we even promise that if we're late, we'll pay you*. It's your assurance of punctual, convenient electricians that work around your schedule",
-						$global_city.'-Wide Coverage'=>'With electrical teams across '.$global_city.', we can dispatch the nearest available electrician direct to your door',
-						'Pay by the Job, <br class="d-none d-xxl-block">Not by the Hour'=>'With ComfyFirst you pay by the job, never the hour, meaning you know the full price BEFORE we start any work for your complete peace of mind',
-						'Friendly Electricians'=>"With ComfyFirst you can be so sure of on-time service that we even promise that if we're late, we'll pay you*. It's your assurance of punctual, convenient electricians that work around your schedule",
-					]; 
-					$i=0;
+					<?php $sctas = [
+						'On-time Guaranteed' => "With ComfyFirst you can be so sure of on-time service that we even promise that if we're late, we'll pay you*. It's your assurance of punctual, convenient electricians that work around your schedule",
+						$global_city . '-Wide Coverage' => 'With electrical teams across ' . $global_city . ', we can dispatch the nearest available electrician direct to your door',
+						'Pay by the Job, <br class="d-none d-xxl-block">Not by the Hour' => 'With ComfyFirst you pay by the job, never the hour, meaning you know the full price BEFORE we start any work for your complete peace of mind',
+						'Friendly Electricians' => "With ComfyFirst you can be so sure of on-time service that we even promise that if we're late, we'll pay you*. It's your assurance of punctual, convenient electricians that work around your schedule",
+					];
+					$i = 0;
 					foreach ($sctas as $key => $value) {
 						$i++;
-						?>
+					?>
 						<div class="mb-4 col-lg-6 text-center">
 							<div class="card rounded-0 border-0 bg-frdark h-100">
 								<div class="card-boby h-100 px-xxl-5 p-4">
-									<p class=" display-2 line-height-1 fw-bold"><?=$key?></p>
-									<p class="text-grey"><?=$value?></p>
+									<p class=" display-2 line-height-1 fw-bold"><?= $key ?></p>
+									<p class="text-grey"><?= $value ?></p>
 								</div>
 								<?= lazyImg("blockeddrain/s$i.png", randalts($alts), "card-img w-100") ?>
 							</div>
 						</div>
-						<?php
-					}?>
+					<?php
+					} ?>
 				</div>
 			</div>
 		</div>
@@ -174,13 +180,13 @@ include __DIR__ . '/src/banner.php';
 		<div class="row justify-content-center">
 			<div class="col-xxl-9">
 				<p class="text-center display-2 fw-bold line-height-1 text-dark mb-5">Everyone’s property is different.<br class="d-none d-xxl-block">
-				We provide an Option Sheet that will show all available solutions in great detail</p>
+					We provide an Option Sheet that will show all available solutions in great detail</p>
 				<div class="position-relative">
 					<div class="row z-1 position-relative justify-content-center pt-5">
 						<div class="col-xxl-5 text-center">
 							<p class="display-2 fw-bold line-height-1 text-dark pt-5">Air Conditioning Solutions</p>
 							<p class="h5 fw-normal"><i>We calculate ALL available options for your property</i></p>
-							<?= lazyImg("home/sfp.png", randalts($alts), "mb-5",453,30) ?>
+							<?= lazyImg("home/sfp.png", randalts($alts), "mb-5", 453, 30) ?>
 						</div>
 					</div>
 					<div class="row justify-content-center position-relative z-1 g-0">
@@ -188,30 +194,30 @@ include __DIR__ . '/src/banner.php';
 							'We gather detailed information about your home to accurately assess your options',
 							'We provide a highly detailed Option Sheet that lists every possible solution for your issue.',
 							'We’ll confirm your decision before starting any work. Guaranteed on-time professional services',
-						]; 
-						$n=0;
+						];
+						$n = 0;
 						foreach ($steps as $key => $value) {
 							$n++;
-							?>
-							<div class="<?=($n==1)?'col-xxl-4 offset-lg-3 offset-xxl-4 col-lg-6 me-auto mb-lg-n5 position-relative z-1':'col-lg-6 mt-xl-n5'?> <?=($n==2)?'me-lg-n5':''?> <?=($n==3)?'ms-lg-n5':''?>">
+						?>
+							<div class="<?= ($n == 1) ? 'col-xxl-4 offset-lg-3 offset-xxl-4 col-lg-6 me-auto mb-lg-n5 position-relative z-1' : 'col-lg-6 mt-xl-n5' ?> <?= ($n == 2) ? 'me-lg-n5' : '' ?> <?= ($n == 3) ? 'ms-lg-n5' : '' ?>">
 								<div class="card border-0 rounded-0 bg-transparent text-white">
 									<?= lazyImg("home/st$n.png", randalts($alts), "card-img w-100") ?>
 									<div class="card-img-overlay d-flex">
 										<div class="row my-auto">
-											<div class="<?=($n==1)?'col-6 mt-n5':'col-5 mt-md-5 mt-4'?> <?=($n==3)?'offset-1':'offset-6'?>">
-												<div class="cta card rounded-0 border-0 mb-3 bg-transparent <?=($n==1)?'':'ctad'?>">
+											<div class="<?= ($n == 1) ? 'col-6 mt-n5' : 'col-5 mt-md-5 mt-4' ?> <?= ($n == 3) ? 'offset-1' : 'offset-6' ?>">
+												<div class="cta card rounded-0 border-0 mb-3 bg-transparent <?= ($n == 1) ? '' : 'ctad' ?>">
 													<div class="card-body p-0 position-relative">
-														<i class="fw-bold font-36 line-height-1 <?=($n==1)?'bg-dark':'bg-info'?> d-inline-block py-1 ms-4 ps-2 pe-3 position-relative">Step <?=$n?></i>
+														<i class="fw-bold font-36 line-height-1 <?= ($n == 1) ? 'bg-dark' : 'bg-info' ?> d-inline-block py-1 ms-4 ps-2 pe-3 position-relative">Step <?= $n ?></i>
 													</div>
 												</div>
-												<p class="h4 fw-normal line-height-1"><?=$value?></p>
+												<p class="h4 fw-normal line-height-1"><?= $value ?></p>
 											</div>
 										</div>
-										
+
 									</div>
 								</div>
 							</div>
-							<?php
+						<?php
 						}
 						?>
 					</div>

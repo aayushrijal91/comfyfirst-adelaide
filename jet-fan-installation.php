@@ -61,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Jet Fan Installation</p>
 									</div>
 								</div>
-								<p>Standard ventilation systems are appropriate for business and residential establishments and these systems are installed indoors. Certain enclosed places, on the other hand, demand more sturdy systems that take up very little space. A jet fan is an excellent option for such needs. We can install and manage energy-efficient jet fans in your commercial property. </p>
+								<p>Standard ventilation, installed indoors, is appropriate for commercial and residential facilities. Certain enclosed spaces, necessitate more robust, compact systems. A jet fan is a perfect solution for such requirements. We offer the best jet fan installations for commercial settings.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,24 +81,21 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4">What exactly are Jet Fans?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4">What are Jet Fans?</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Jet fans are big appliances that collect air without the need of ducting from relatively open locations. These fans are strong enough to operate without taking up excessive space in parking lots, huge warehouses, and other similar situations. They are frequently used in conjunction with a heat and smoke exhaust ventilation systems (SHEV) which facilitates in the removal of exhaust gases.</p>
-
-							<p>They move a big volume of air quickly and quietly. It is especially effective in congested areas such as:</p>
+							<p>Jet fans are large equipment that collect air from open areas without the use of ducting. These fans are powerful enough to continue operating without taking up too much space in parking areas, large warehouses, as well as other similar settings.</p>
+							<p>They are typically used in combination with a smoke and heat exhaust ventilation system that helps remove exhaust gases. These fans can move a large amount of air quickly and quietly. It is particularly useful in crowded areas such as:</p>
 							<ul>
-
 								<li>Car parks</li>
-								<li>Sports complexes</li>
-								<li>High-rise buildings</li>
 								<li>Road tunnels</li>
-								<li>Malls </li>
-								<li>Big hotels and resorts</li>
-								<li>Stadiums </li>
+								<li>High-rise buildings</li>
+								<li>Stadiums</li>
+								<li>Malls</li>
+								<li>Big hotels & resorts</li>
+								<li>Sports complexes</li>
 							</ul>
-							<p>This equipment can be integrated into a tailored mechanical ventilation system. We survey the premises and understand your goals before providing the best solutions.</p>
-
+							<p>Exhaust fans can be incorporated into a custom- designed mechanical ventilation system. We study the property and learn about your objectives before recommending the best options.</p>
 						</div>
 					</div>
 				</div>
@@ -116,7 +111,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Top-Notch Jet Fan Installations</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Excellent Jet Fan Installations in Adelaide</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -138,12 +133,10 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>We are a qualified and insured business that offers our customers a comprehensive selection of commercial air-conditioning systems. We have considerable industry knowledge and are happy to guide you and help with all of your AC installation needs. </p>
-
-							<p>Before delivering appropriate solutions at a fair price, our specialists sit down and listen to understand your demands. Our team also handles repairs, servicing, and replacement of all types of commercial AC and related components such as Jet Fans. </p>
-
-							<p>We employ the best technology and materials available so you have efficient systems that perform well for a long time. For the best Jet Fan Installation services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this Online Form to send us your queries and requests. One of our team members will call you shortly. </p>
-
+							<p>We are a licenced and insured company that provides our customers a wide range of commercial air con systems. We have extensive domain expertise and are happy to advise and assist you with your air conditioning needs.</p>
+							<p>Before providing appropriate solutions at a reasonable cost, our experts sit down and understand your requirements. Our team also repairs, services, and replaces all types of commercial air conditioning and associated systems such as Jet Fans.</p>
+							<p>We use the most advanced techniques and equipment available to ensure that your systems are efficient and long lasting. </p>
+							<p>For the best <?= $title ?> services, please call Comfy First <?= $global_city ?> on - <?= $phone ?>. Alternatively, use this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> to send us your queries and requests. One of our team members will call you shortly.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">
