@@ -62,7 +62,7 @@ include __DIR__ . '/src/banner.php';
 									</div>
 								</div>
 
-								<p>Installation of a central gas heating system becomes one of the most cost-effective and safe methods of providing clean, pleasant, warm and comfortable air to your home or office building.</p>
+								<p>Installing a central gas heating system is an energy-efficient, safe way to provide clean, comfortable, warm air to your business or home.</p>
 							</div>
 						</div>
 					</div>
@@ -82,11 +82,11 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a <?= $global_city ?> Central Gas Heating System Functions</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Does an <?= $global_city ?> Central Gas Heating System in Adelaide Work?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>It consists of a heat exchanger, which can run on LPG as well as natural gas. Because this exchanger is placed outdoors, the exhaust gases are safely vented to the atmosphere. When in operation, the unit's hot tubes draw in fresh, clean air from the outdoors and heat it effectively.</p>
-
-							<p>This heated air then is routed out of each room via exit grilles attached to the ceiling, floor or walls. Throughout the structure, extra grilles are installed to recirculate the heated air. Each room is equipped with a thermostat, which monitors the indoor temperature and stimulates additional combustion as needed to provide heat.</p>
+							<p>Here's how the system works:</p>
+							<p>It is made up of a heat exchanger that can run on natural gas/ LPG. Because this component is situated outside, the combustion gases are expelled into the atmosphere, without harming anyone. While working, the heat exchanger tubes draw clean, fresh outdoor air into the air intake, efficiently heating it.</p>
+							<p>This heated air is routed via exit grilles installed in a room's walls, flooring or ceiling. To recirculate the warm air, extra grilles are inserted throughout the structure. Every room is fitted with a thermostat to monitor the temperature. It increases the combustion levels as needed to provide heat.</p>
 						</div>
 					</div>
 				</div>
@@ -102,7 +102,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose a Gas Central Heating System?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose a Central Gas Heating System?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -124,19 +124,19 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are numerous reasons to purchase this system, including the following:</p>
+							<p>There are numerous reasons to purchase this system, including:</p>
 							<ul>
-								<li> Central gas heating is vastly more efficient at heat production than electric heating</li>
-								<li>It can save up to 30% on energy</li>
-								<li>Electronic ignition operation is completely safe</li>
-								<li>Variable speed technology ensures optimal comfort</li>
-								<li>The central unit supplies the preferred amount of air to each room</li>
-								<li>A central gas heating system that is fired by natural gas is more affordable and safer to function than other kinds of heating</li>
-								<li>Electronic ignition provides peace of mind and safety.</li>
+								<li>Central gas heating is much more efficient in terms of heat production</li>
+								<li>It can save you up to 30% on your energy bills</li>
+								<li>Comes with a safe electronic ignition system</li>
+								<li>Variable speed technology that provides maximum comfort</li>
+								<li>The central unit delivers the required amount of air to each room.</li>
+								<li>A gas-fired system is less expensive to operate and safer to use than other forms of heating</li>
+								<li>Electronic ignition provides peace of mind</li>
 							</ul>
-							<p>When you contact us for a central gas heating system in <?= $global_city ?>, our crew will first survey the property. They will first fully understand your air conditioning requirements before recommending the most cost-effective solutions. We are a licenced and insured business that guarantees all of our services, ensuring 100% customer satisfaction.</p>
+							<p>When you contact us for <?= $banner ?>, our technicians will come to your home and survey the site. They will first understand what your heating needs are, before recommending the best solutions that fit within your budget. We are a licenced and insured business that provides guaranteed services and complete customer satisfaction.</p>
 
-							<p>For more details about our central gas heating services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements. </p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

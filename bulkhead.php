@@ -58,17 +58,10 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">What Are the Advantages of a Bulk Head Air Conditioner in <?= $global_city ?>?</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>There are numerous advantages to using this type of air conditioning system, including:</p>
-								<ul>
-									<li>The size is compact</li>
-									<li>You have the option of using a bottom or back suction return, which gives you more flexibility during installation.</li>
-									<li>Low-noise operation (only 35dBA)</li>
-									<li>It’s possible to achieve ideal fan speed selection to suit the chosen temperature.</li>
-									<li>When the machine is not in use, it automatically reduces energy use.</li>
-								</ul>
+								<p>Do you have limited space in a room but want to install an air conditioner? Do you need a low-profile air conditioning system that is both stylish and quiet? If so, a Bulk Head unit may be the best option for you.</p>
 							</div>
 						</div>
 					</div>
@@ -90,8 +83,7 @@ include __DIR__ . '/src/banner.php';
 						<div class="py-3 py-xxl-5">
 							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4"><?= $banner ?></p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>Do you have a limited amount of space but want to install an air conditioner? Are you hunting for an AC system that is both stylish and quiet? If this is the case, a bulkhead air conditioning unit may be the best option for you.</p>
-							<p>These systems are ideal for locations with limited wall surfaces or ceilings made of concrete. This is also a good option if you don't like the look of air conditioners as the indoor unit. The unit in this type is level with the ceiling, hidden behind massive rectangular grilles. This will free up more wall and floor space in the room for other features. These systems are also quiet, which makes them perfect for use in smaller homes, offices etc.</p>
+							<p>These units are ideal for locations with limited wall spaces or low concrete ceilings. Furthermore, if you dislike the look of air conditioners, this is a perfect remedy. This AC sits flush against the ceiling and has large rectangular grilles, freeing up more wall & floor space in that area for other features. These systems are also quiet, making them suitable for use in smaller homes, offices, and bedrooms as well.</p>
 						</div>
 					</div>
 				</div>
@@ -107,7 +99,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Opt For A <?= $global_city ?> Bulk Head Air Conditioner?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Buy Bulk Head Air Conditioner in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,11 +120,18 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>It's critical to select the best Bulk Head Aircon for your requirements. We're here to give you all the information you need to make an educated decision about the product you want. We provide free site inspection and handle the installation to industry standards.</p>
-							
-							<p>In addition, our company provides maintenance, repairs and service as needed. We also provide exceptional guarantees on all of our work, so you can rest assured that the job will be done correctly the first time.</p>
+							<p>There are numerous reasons to choose this type of air conditioning system, including:</p>
+							<ul>
+								<li>Size is compact and sleek.</li>
+								<li>You have more installation flexibility if you choose rear/bottom suction returns.</li>
+								<li>Only 35dBA of noise is produced during operation.</li>
+								<li>Efficient operation as the system has optimal fan speed options to match the necessary temperature requirement</li>
+								<li>When the system is not in use, it decreases energy consumption.</li>
+							</ul>
 
-							<p>For more details about our bulk head services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements.</p>
+							<p>It is critical to select the best bulk head unit for your requirements. We are here to give you all of the information you require, allowing you to make a smarter choice about the product you want. We provide free site inspection and quotes, and handle installation in accordance with best practices.</p>
+							<p>Our company also provides backup services, repairs and maintenance, as needed. We also provide excellent guarantees on all of our workmanship, so you can be confident that we will complete the job correctly the first time.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, bulk head installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

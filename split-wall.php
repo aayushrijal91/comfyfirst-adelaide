@@ -58,17 +58,24 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">Split Wall</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold">What an <?= $global_city ?> Split Wall Air Conditioner Is and How It Works</p>
 									</div>
 								</div>
-
-								<p>Split wall air conditioners quietly and efficiently supply conditioned air to your residential or business property. These units are dependable, and many consumers now prefer them to standard window units.</p>
+								<p>The system works as follows:</p>
+								<ul>
+									<li>This air conditioner has an external heat exchanger unit that transfers heat to the exterior environment without harming humans, animals, or vegetation.</li>
+									<li>This cabinet also has an inverter-based compressor for optimum energy efficiency.</li>
+									<li>The indoor AC unit is housed in a sleek cabinet and is mounted on the wall, near the ceiling.</li>
+									<li>It has outlet air venting system that deflects cold air based on personal preferences. They also has a horizontal swing function, providing maximum comfort and cooling in all areas in that room.</li>
+									<li>It is operated via a handheld remote or through a central command device.</li>
+									<li>Furthermore, most split system ACs have sleep and delay functions that allow you to control when the unit turns on and off.</li>
+									<li>Humidity and temperature sensor devices are included; these help limit the electrical system's peak power consumption.</li>
+									<li>Furthermore, some systems use Wi-Fi to initiate control via a smartphone or tablet prior to your arrival.</li>
+								</ul>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -84,19 +91,9 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What is a Split Wall Air Conditioner in <?= $global_city ?>?</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4"><?= $banner ?></p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>The system works as follows:</p>
-							<ul>
-								<li> This air conditioner includes a heat exchanger unit (located outdoors) that transfers heat without harming animal or plant life.</li>
-								<li>For ultimate energy efficiency, this cabinet also has an inverter compressor.</li>
-								<li>The interior air conditioning unit is housed in a sleek cabinet and is mounted on the wall, near the ceiling.</li>
-								<li>Its outlet air vents deflect cold air or swing horizontally for ideal comfort in all parts of the room, according on personal preferences.</li>
-								<li>A hand-held remote or a central command unit are used to operate it.</li>
-								<li>In addition, most split system air conditioners have sleep and delay modes, which let you control when the system goes on & off.</li>
-								<li>Humidity and temperature sensors are installed to help limit the electrical system's peak power use.</li>
-								<li>Furthermore, some systems use Wi-Fi to allow operation of the system through a tablet or smartphone prior to your arrival.</li>
-							</ul>
+							<p>Split wall ACs quietly and efficiently deliver conditioned air to your residential or business property. These systems are extremely durable, and many homeowners now prefer these to window units.</p>
 						</div>
 					</div>
 				</div>
@@ -112,7 +109,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Benefits Of A <?= $global_city ?> Split Wall System:</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Benefits Of An <?= $global_city ?> Split Wall System</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -134,17 +131,17 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>It's a safe and quiet way to circulate pure, clean, comfortable air throughout your home or business, and it has a number of other advantages, including:</p>
+							<p>It is a quiet and clean way to distribute pure, comfortable air throughout your business or residential property, and it has additional advantages, including:</p>
 							<ul>
-								<li>These units come in a stylish interior cabinet that complements most modern interior design styles.</li>
-								<li>Provides steady, comfortable airflow to various areas of a given space.</li>
-								<li>It's appropriate for both home and commercial environments.</li>
-								<li>The filtration system works well, cooling and cleaning the air several times.</li>
-								<li>Design that saves energy</li>
-								<li>Operation that is super quiet</li>
-								<li>Individual preferences can be easily accommodated by air delivery outlet grills</li>
+								<li>These systems include an aesthetically pleasing interior cabinet that complements the majority of modern décor styles.</li>
+								<li>Individual preferences can be easily accommodated by adjusting the system’s air delivery outlet grills.</li>
+								<li>Allows for comfortable, constant airflow in various rooms or zones of a building.</li>
+								<li>Appropriate for both commercial and residential settings</li>
+								<li>The filtration system works well; it cleans and cools the air several times.</li>
+								<li>Design that promotes energy efficiency</li>
+								<li>Silent operation</li>
 							</ul>
-							<p>For more details about our split wall system installation and other services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

@@ -58,16 +58,14 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">Package Units</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>If you require an adaptable air conditioning alternative for various areas like merged commercial floor spaces with constantly changing cooling & heating loads, package units are the answer.</p>
+								<p>If you want a versatile air conditioning system to cool multiple areas or rooms in your business or residential property, package units are an excellent choice.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,13 +81,12 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What are <?= $global_city ?> Package Units?</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What are Package Units in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
 
-							<p>These devices are able to address a range of climate control obstacles, including those associated with extreme heat & cold. They are available in a variety of capacities and provide an optimised and sensitive solution for commercial uses. The units' heating and cooling capacities can be adjusted in response to varying loads.</p>
-
-							<p>Leading brands' manufacture advanced units with features such as high-tech compressor of variable capacity that are perfect for the cooling requirements of an indoor environment. The device works hard only when necessary, ensuring maximum comfort.</p>
-
+							<p>These systems have the capacity to endure heavy use and manage a range of climate control demands even in extreme climatic conditions. You are sure to find a product to suit your needs, as these units are available in various capacities and configurations.</p>
+							<p>The units are robust, adjusting the cooling/heating output as per changing loads.</p>
+							<p>These advanced modern units from well-known brands have a variable capacity compressor, which quickly adapts to match your cooling needs. The unit provides optimal comfort and works hard only when a space or room’s occupancy is higher.</p>
 						</div>
 					</div>
 				</div>
@@ -105,7 +102,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose Package Units?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Opt For Package Units?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -127,17 +124,17 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>While each brand offers unique features and functions in its products, the majority of package units include the following benefits:</p>
+							<p>While every manufacturer’s products come with certain features and functions, most package unit ACs will have:</p>
 							<ul>
-								<li>A digital compressor that improves humidity control while consuming significantly less power and allowing for a wide capacity range.</li>
-								<li>Externally controllable high-static plug fans</li>
-								<li>Control technology optimised for effective humidity control and exceptional comfort</li>
-								<li>Variable speed fans improve control and efficiency while producing less noise and starting softly.</li>
-								<li>These units include an intelligent unit controller, which ensures that the system operates at peak efficiency.</li>
+								<p>A digital compressor which helps in improved humidity control at lower power consumption, while allowing for a wider capacity range</p>
+								<p>High-static plug-style fans that can be controlled externally</p>
+								<p>Optimum AC control technology for the best reliable, consistent comfort levels</p>
+								<p>Variable speed, low noise, soft start function fans</p>
+								<p>Most of these units have an intelligent unit controller which ensures optimum efficiency of the system</p>
 							</ul>
-							<p>We are certified, trained, and licenced to install package units in accordance with manufacturer requirements. Our professionals will provide you with all the information you require about a variety of popular makes and types, empowering you to make an educated choice. Our company also handles repair, replacement and maintenance services for these air conditioning systems.</p>
-
-							<p>For any more information about our Package Units, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this Online Form and one of our team members will contact you shortly.</p>
+							<p>We have the resources, licencing and the skills needed to manage package unit installations using the best practices. We understand that making the right AC choice is crucial and represents a significant investment. It’s why we are here to provide you with all the information and details you need, the systems upsides, downsides, and more.</p>
+							<p>These details help you make a better informed decision about whether this would be the right air conditioning system choice. We at Comfy First Adelaide are a front-running company in this sector and we offer the best, package units installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

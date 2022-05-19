@@ -58,10 +58,10 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">Ceiling Cassette</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>A ceiling cassette is a cost-effective way to bring clean, cooled/heated air to living areas in your house, multi-use complex, office or retail centre. This device, is mounted on the ceiling, and is not obtrusive, but it is a highly effective way to ensure the comfort of your family, colleagues, or clients.</p>
+								<p>A Ceiling Cassette is an immensely efficient way of delivering heated or cooled air to various living areas in your residence, multi-use complex, office, retail centre, or multi-use complex. This ceiling-mounted unit is unobtrusive, yet a highly effective way to ensure the continued comfort of family members, clients or employees.</p>
 							</div>
 						</div>
 					</div>
@@ -81,11 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a <?= $global_city ?> Ceiling Cassette System Works</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a <?= $banner ?> System in Adelaide Works</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>The system comes with an exterior unit with a powerful yet energy-efficient compressor and a low-energy DC electric motor. This combination automatically lowers power bills and eliminates energy demand spikes.</p>
-
-							<p>The air is distributed equally in all directions by the interior unit, which is hung from the ceiling and encased in a self-contained cassette. It also detects motion whenever a person enters the room and monitors comfort levels using pre-set settings via a central controller unit.</p>
+							<p>The unit has an outdoor unit outfitted with a powerful yet reliable compressor and an energy-efficient DC electric motor. This combination automatically reduces electricity bills while also easing any energy demand surges.</p>
+							<p>The interior component is suspended from the ceiling and is covered with a self-contained cassette; it evenly distributes hot/cool air in all directions. It also detects motion when someone enters the room and monitors the comfort levels based on set temperatures via a central command unit.</p>
 						</div>
 					</div>
 				</div>
@@ -101,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of a Ceiling Cassette Air Conditioner</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of a Ceiling Cassette AC</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -122,19 +121,20 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>Using this system has various advantages, including:</p>
+							<p>There are several benefits to using this AC unit including:</p>
 
 							<ul>
-								<li>A robust system that works effectively</li>
-								<li> Quiet function</li>
-								<li>More people or altering indoor conditions inside the room trigger an automatic response</li>
-								<li>Consistent degrees of comfort for everyone in a given space</li>
-								<li>The ability to adjust comfort levels according to zones</li>
-								<li>Energy efficiency improves with consistent energy demand</li>
-								<li>The unit maintains a continuous level of comfort from the moment it is turned on by quickly establishing a stable room temperature with very less energy wasted</li>
+								<li>A powerful system works effectively.</li>
+								<li>The operation is quiet.</li>
+								<li>Responds automatically when there are more people or the room changing vary.</li>
+								<li>Consistent levels of comfort for everyone in a specific space</li>
+								<li>The ability to adjust comfort levels based on zone</li>
+								<li>Energy efficiency improves when there is a consistent demand for energy.</li>
+								<li>From the moment it is turned on, the unit maintains a constant level of comfort by swiftly establishing a consistent room temperature while using the minimum amount of energy.</li>
 							</ul>
-							<p>You must choose the proper AC system based on your needs if you would like the proper amount of coolness and comfort. Before recommending the best solutions, our trained and professional team will first learn about your needs. We provide high-quality products at the most affordable prices. Our company also performs all types of air conditioning repairs, maintenance, service and replacements.</p>
-							<p>For more details about our Ceiling Cassette installations and other services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements. </p>
+							<p>If you want appropriate cooling & comfort, you need to select the appropriate AC system. Before recommending the best solutions, our competent team will first understand your needs. We provide high-quality solutions at the most reasonable prices.</p>
+
+							<p>At Comfy First Adelaide, we are a front-running company in this sector and we offer the best, ceiling cassette installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

@@ -58,17 +58,14 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">Gas Heating And Cooling System</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-
-								<p>If you're looking for a cooling and heating system for your home, you should consider an efficient gas heating and cooling system. Such products provide a superior solution for whole-house climate control at an extremely affordable price.</p>
+								<p>If you are planning to get a new air con for your home, a Gas Heating and Cooling System can be an excellent option. These systems offer affordable and reliable climate-control for your entire home.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -84,12 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What is a <?= $global_city ?> Gas Heating and Cooling System?</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What is a Gas Heating and Cooling System in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-
-							<p>These ducted technologies give you the option of heating/cooling as needed. This means convenience is available at the click of a button. It is a simple way ways to create a perfectly controlled, comfortable indoor environment throughout your home's rooms and spaces.</p>
-
-							<p>This all-in-one system provides refrigeration, cooling, and comfortable gas heating. Additionally, in some products you can install the heating system first before the cooling unit or both at the same time.</p>
+							<p>These are ideal ducted systems as you get the flexibility to utilise the heating or cooling function as required. Very few other systems offer this level of convenience. It is a straightforward way to create perfectly balanced and comfortable indoor spaces with the right temperature levels.</p>
+							<p>You get comfortable heating and cooling via a single unit. In certain models and brands, you have the option to set up the heating system before installation of the cooling unit. The other option is to set up both simultaneously.</p>
 						</div>
 					</div>
 				</div>
@@ -105,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of a Gas Heating and Cooling System</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Advantages of a Gas Heating and Cooling Unit</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -127,18 +122,15 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are many advantages to choosing this type of aircon, including:</p>
+							<p>There are many different advantages to using this AC solution, such as:</p>
 							<ul>
-								<li>A fully integrated solution for gas heating and refrigerated cooling that combines the perfect mix of functionality and comfort.</li>
-								<li>Grills and ductwork are shared between the systems making installation easier.</li>
-								<li>Cost savings on installation.</li>
-								<li>You can convert it to a zoned airconditioning system or a whole-house system.</li>
-								<li>Numerous leading brands incorporate advanced controller and zoning technology alternatives as well.</li>
+								<li>Complete refrigerated cooling & gas heating unit that offers the best of all you need in an AC system.</li>
+								<li>These systems share all the ductwork and grills, which reduces installation costs</li>
+								<li>You can use it as a zoned cooling & heating unit or a whole house conditioning mechanism Many prominent brands offer advanced controller options and in-built zoning technology</li>
 							</ul>
-							<p>Our team has the required credentials, skills, and licences to setup gas heating & cooling systems in accordance with manufacturer specifications. Our specialists will provide you with all of the information you need about a variety of leading makes and models so you can make the right choice. Additionally, we offer air conditioning repair, maintenance, and replacement services.</p>
-
-							<p>For any more information about our Gas Heating and Cooling System services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this Online Form and one of our team members will contact you shortly.</p>
-
+							<p>We have the credentials, expertise and technology to handle the installation of gas heating and cooling systems in line with the set standards. Our knowledgeable team is here to offer their insights and inputs in the various leading brands and types of AC units so you can select something that fits into your budget and suits your needs.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, gas heating and cooling system installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

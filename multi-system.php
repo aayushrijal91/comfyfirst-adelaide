@@ -58,18 +58,10 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">How the Multi System in <?= $global_city ?> Works</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>The unit operates in this way:</p>
-								<ul>
-									<li>The Multi system consists of a compressor and an efficient condenser coil enclosed in a solid cabinet installed outdoors.</li>
-									<li>It can connect up to five separate indoor units, each set to the required temperatures for optimal levels of comfort.</li>
-									<li>The compressor supplies an adequate amount of refrigerant to every coil, ensuring that each unit receives optimal cooling.</li>
-									<li>Once the desired temperature levels in the rooms is reached, it automatically reduces the refrigerant flow and then maintains the optimum temperature.</li>
-									<li>The system's heart is an inverter-type compressor that automatically adjusts the system's workload to meet the needs of each individual unit.</li>
-									<li>It also considers the selected room temperature with a lesser energy demand, which reduces overall energy consumption after the system achieves & maintains the desired temperature.</li>
-								</ul>
+								<p>A multi-system air conditioner is an extremely energy-efficient way to make your residence more comfortable for your family. It is also appropriate for multi-storey office buildings and complexes. We've installed many of these systems on both business and residential properties, and we provide customised, cost-effective solutions.</p>
 							</div>
 						</div>
 					</div>
@@ -89,9 +81,17 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4"><?= $banner ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a Multi System in <?= $global_city ?> Works</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>A multi-system air conditioner is an extremely energy-efficient way to increase the comfort level in your home for you and your family. Additionally, it is appropriate for multi-story office buildings and complexes. Our company has installed numerous units on commercial and residential properties and we provide customised, cost-effective solutions.</p>
+							<p>This is how the AC works:</p>
+							<ul>
+								<li>The multi system contains a compressor and a robust condenser coil in an outdoor cabinet.</li>
+								<li>It can link up to five individual indoor components set to the desired temperatures for varying comfort levels.</li>
+								<li>The compressor delivers enough refrigerant to every coil to ensure that each indoor module receives optimal cooling.</li>
+								<li>Once the specific temperature in the rooms is reached, it will automatically decrease the refrigerant flow and maintain the temperature at that level.</li>
+								<li>The system's heart is its inverter-based compressor, which automatically regulates the system's workload based on the needs of each individual unit.</li>
+								<li>It will also consider the selected room temperature with less energy demand, which reduces power consumption after the system reaches and maintains the required temperature.</li>
+							</ul>
 						</div>
 					</div>
 				</div>
@@ -107,7 +107,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Multi-System Installations of the Highest Quality</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">High-Quality Multi-System Installations</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,9 +128,8 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>As previously stated, we provide customised ducted system installations and back our work with guarantees. Our specialists will provide you with all of the information you require about these air conditioners and will execute the installation according to manufacturer specifications. Additionally, we provide the best repairs, replacement and repairs for these units and can handle upgrades as well.</p>
-
-							<p>For more details about our ducted system installations and other services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements. </p>
+							<p>As previously stated, we provide tailored ducted system installation services and back up our workmanship with guarantees. Our professionals will provide you with all of the information you require about these air conditioning units and will complete the set up as per the brand specifications. Our reliability, high quality customer services and the best product availability are unmatched on every count.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, multi system installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

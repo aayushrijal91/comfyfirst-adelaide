@@ -58,13 +58,10 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">What is a Ducted System in <?= $global_city ?>?</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>The air conditioning system is often positioned underneath the flooring or within the roof cavity. This device generates filtered air to be distributed throughout your home via ductwork. This network of flexible, insulated cylinder tubes link the central air conditioner to each room's venting system.</p>
-								<p>The ducting network returns air to the air conditioner via the return air panel, removing dust, pollen, and pollutants from the air in the room. Additionally, a ducted system can provide various temperature and comfort settings for sleeping, working and various other activities simultaneously.</p>
-
-								<p>A single control system is used to adjust the comfort settings in all rooms. Due to technological advancements such as remote control and Wi-Fi capabilities, units also have delay and sleep features.</p>
+								<p>Ducted air conditioning technology is quiet, energy-efficient and environmentally friendly. It’s a good way to increase the comfort levels in your commercial space or home. The ducted system comprises of a heat exchanger unit (placed outdoors). It operates on an inverter power part for optimal energy efficiency.</p>
 							</div>
 						</div>
 					</div>
@@ -84,9 +81,11 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">Save On Ducted Air Conditioning in <?= $global_city ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">What Is a Ducted System in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>Ducted air conditioners are some of the most ecologically friendly, quiet, and energy-efficient ways to heat and cool your home or office. A ducted system utilises a heat exchanger component (located outdoors), powered by an inverter to maximise energy efficiency.</p>
+							<p>The air conditioning unit is usually hidden beneath the floor or a roof cavity. This system generates filtered air, which can be directed into any room/space in your home. Ducting is a system of flexible insulated cylindrical tubes that connects the AC unit to each individual room's venting system.</p>
+							<p>Furthermore, the ducting infrastructure recirculates the air to the entire system through the return air panel, removing grime, pollen and dust from the indoor air. It can also provide separate temperature and comfort zones for sleeping, working, and various other activities at the same time.</p>
+							<p>Every room's comfort levels can be adjusted using a single command station. Because of technological advancements such as remote control and wireless capabilities, these systems have features such as sleep and wireless capabilities.</p>
 						</div>
 					</div>
 				</div>
@@ -102,7 +101,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Choose A Ducted System?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Choose a Ducted System in <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php
 							/*$family = [
@@ -123,16 +122,17 @@ include __DIR__ . '/src/banner.php';
 							<?php
 							}*/
 							?>
-							<p>The following are some of the benefits of choosing this system:</p>
+							<p>These are some of the benefits of using this system:</p>
 							<ul>
-								<li> Because ducted systems are concealed, they are less noticeable in your home.</li>
-								<li>Capacity for uniformly dispersing pleasant air across a room or building.</li>
-								<li>Have a recirculating system capable of filtering and cooling the air on a continuous basis.</li>
-								<li>Energy- efficient and quiet operation.</li>
-								<li>Individual rooms /spaces can be 'Zoned' or modified together to accommodate a range of different comfort levels.</li>
+								<li>Ducted systems are less apparent in your home because they are hidden</li>
+								<li>Capability to evenly distribute comfortable air throughout a room or space</li>
+								<li>Provide a system for filtering and cooling the air, and recirculating it at set inter</li>
+								<li>It's quieter and uses less energy</li>
+								<li>Specific rooms can be 'Zoned' or configured to a varying comfort levels at the same time</li>
 							</ul>
-							<p>We provide customised ducted system AC services and guarantee all of our work. Our staff will give you all the facts you need on these technologies and will perform the installation in accordance with manufacturer specifications. Additionally, we provide exceptional replacement, repair, and maintenance services for these air conditioners.</p>
-							<p>For more details, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements.</p>
+							<p>We provide customised, ducted system AC services and guarantee all of our work. Our experts will provide you with all of the information you require about these technologies and will complete the installation in accordance with the manufacturer's specifications.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, ducted system installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

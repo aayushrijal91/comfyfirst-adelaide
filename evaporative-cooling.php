@@ -58,12 +58,10 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">How Does a <?= $global_city ?> Evaporative Cooling System Work?</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-								<p>This AC unit evaporates hot, dry outdoor air and converts it to cooler air, which is then pushed into your home. Evaporative coolers efficiently lower the temperature of the indoor air by utilising the evaporation process. The unit is typically equipped with a water reservoir, fan, and a few other fittings. The system draws in the dry hot air, directing it through cooling pads that absorb water from the reservoir.</p>
-
-								<p>When hot air passes through the cooling pads of the system, it initiates the evaporative process, resulting in a decrease in the system's temperature. The fan circulates cooled air throughout your home's interior spaces.</p>
+								<p>If you're searching for the best, environmentally friendly cooling system, evaporative cooling ACs might be the right way to go. These energy-efficient devices are available in a variety of makes and types, so you will find one that meets your requirements.</p>
 							</div>
 						</div>
 					</div>
@@ -83,9 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">Evaporative Cooling</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Does an <?= $global_city ?> Evaporative Cooling System Work?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>If you're looking for an environmentally friendly, cost-effective cooling solution, evaporative cooling technology may be the way to go. These energy-efficient systems are available in a variety of brands and models, so you're sure to find one that meets your needs.</p>
+							<p>This unit evaporates hot, dry outdoor air and converts it to cooler air, which is then pushed into your residence. These coolers utilise the evaporation process to efficiently lower the temperature of the indoor air. The unit includes a fan, and a separate water reservoir, as well as a few additional accessories.</p>
+							<p>The dry hot air is drawn into the unit, circulates through all the cooling pads, which soak up water from the reservoir. When hot air passes through the device's cooling pads, the evaporative process starts, resulting in a drop in the temperature within the system. The fan circulates cooled air throughout your home's interior spaces.</p>
 						</div>
 					</div>
 				</div>
@@ -101,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of Evaporative Cooling</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Advantages of Evaporative Cooling Units</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -122,19 +121,16 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-
-							<p>There are numerous benefits to installing these units, such as:</p>
+							<p>Installing these systems has several advantages, including:</p>
 							<ul>
-								<li>Installation is simple</li>
-								<li>Natural, healthy, and pleasurable air</li>
-								<li>Appropriate for cooling large open areas</li>
-								<li>They are environmentally friendly because they consume significantly less electricity.</li>
-								<li>Affordably priced cooling solution</li>
+								<li>Natural, fresh, and relaxing air</li>
+								<li>A low-cost cooling solution</li>
+								<li>Appropriate for cooling open layout spaces</li>
+								<li>They are environmentally friendly because the energy consumption is lower</li>
+								<li>The installation is straightforward</li>
 							</ul>
-							<p>We have the expertise, training, and licensing necessary to properly install evaporative cooling systems according to manufacturer guidelines. Our experts are available to provide you with any information you need about the best brands and models to assist you in making your selections. We operate efficiently and provide superior service, maintenance, and repair for these systems.</p>
-
-							<p>For more details about our evaporative cooling services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements.</p>
-
+							<p>We have the necessary experience, training, licencing and training required to handle evaporative cooling system set up in full compliance with manufacturer recommendations. Our professional team is here to provide you with all of the information you need about numerous makes and models, as well as to guide you through the purchasing process.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

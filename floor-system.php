@@ -62,13 +62,11 @@ include __DIR__ . '/src/banner.php';
 									</div>
 								</div>
 
-								<p>A floor system is an effective, quiet, and pleasant method of distributing clean, hot or cool air throughout your home comfortably. This exceptionally discreet and efficient system offers very good comfort in your home.</p>
+								<p>A floor system is an effective, quiet, and pleasant way to deliver clean, comfortable, hot/cold air to multiple parts of the house. This unobtrusive and reliable unit provides excellent comfort for you and your family.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -84,13 +82,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How the <?= $global_city ?> Floor System AC Works</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How an <?= $global_city ?> Floor System Works</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-
-							<p>The system is comprised of an outdoor device that houses a direct current electric machine and a highly efficient inverter compressor. This combination automatically adjusts to temperature changes and any energy demand peaks, while minimising energy usage. When the outdoor unit detects low gas pressure, it will show a warning on unit's command console.</p>
-
-							<p>Indoor units can be installed on the room's floor level in any space, such as an unused nook or fireplace. The system housed in a low-profile fashionable cabinet has grilles on the upper and lower sections. These could be used in conjunction or separately to alternate the direction of airflow vertically and horizontally.</p>
-
+							<p>The system includes an exterior component, which houses a direct current electricity -operated motor and a powerful compressor. This specific set automatically addresses energy consumption peaks and temperature changes while lessening electricity costs. When low gas pressure is detected, the exterior unit will exhibit an alert on the command console.</p>
+							<p>The indoor component is installed on the floor level of a room. It is low profile and you can install it in any space including a fireplace etc. It is fitted in a cabinet with grills on the top and bottom. They throw out hot or cold air in horizontal and vertical planes.</p>
 						</div>
 					</div>
 				</div>
@@ -106,7 +101,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose a Floor Standing System?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Choose a Floor Standing System?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -127,16 +122,16 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>There are many reasons to opt for this type of system, such as:</p>
+							<p>Here are some of the reasons why floor systems are a great air conditioning choice:</p>
 							<ul>
-								<li>The combination of a high-performance inverter compressor & the direct current motor ensures effortless, constant cooling. It contributes to maintaining comfort levels that are very near to the predefined temperature ranges, which results in lower operating costs.</li>
-								<li>Suitable for use with smartphone apps, which enable you to start or shut down the unit remotely.</li>
-								<li>The stylish indoor unit's body is constructed of oil-resistant materials, which minimises the possibility of staining.</li>
-								<li>Change the level of comfort on multiple units independently.</li>
+								<li>A high-performance inverter compressor and a DC electric motor ensure smooth, reliable cooling. It means you can maintain consistent comfort levels on par with the required temperature range, resulting in lower operating costs.</li>
+								<li>The body of this classy indoor unit is made of robust, oil-resistant materials, reducing the possibility of stain build-up.</li>
+								<li>Change the comfort level on individual units separately.</li>
+								<li>Compatible with mobile apps that make it possible to start & stop the device from any place.</li>
 							</ul>
-							<p>We have the required skills, licences and experience to manage the installation of floor standing systems in accordance with company standards. Our technicians will provide you with all the information you require about leading brands and models, assisting you in making the best choice. Additionally, we provide service, maintenance, replacement parts, and repairs too.</p>
-
-							<p>For more details about our Ceiling Cassette installations and other services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements. </p>
+							<p>We are qualified, trained, and licenced to tackle the installation of floor standing systems to meet industry specifications. Our specialists will provide you with all of the information you require about leading technology, models and brands allowing you to make the best decision possible.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, floor system installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

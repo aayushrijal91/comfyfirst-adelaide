@@ -58,19 +58,14 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">How Ducted Split System Air Conditioners in <?= $global_city ?> Operate</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-
-								<p>A split system air conditioner consists of an outdoor unit equipped with a compressor and condenser. Additionally, it includes an indoor unit that has an air-handler. Between the two units is a line set that includes a condensation drain, a power cable, and robust copper refrigerant tubes.</p>
-
-								<p>Split systems are unlike packaged products, in which all components are contained in a single cabinet. They are distinct from window units that contain coils, a fan and a compressor inside the window/wall-mounted box.</p>
+								<p>Ducted split units consist of two main components- an exterior and an indoor unit. These units can be used for conditioning a single open space or room. Elegant, compact and easy to install, they work well in residential and commercial settings. They come in floor and wall mount configurations, making them versatile enough to fit into most spaces.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -86,9 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4"><?= $banner ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Ducted Split Units in <?= $global_city ?> Work</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>Ducted split units are composed primarily of two components: an outdoor unit and an indoor unit. These systems are capable of conditioning a single room or a large open space. They are compact and stylish, making them suitable for both business and residential applications. These systems can be mounted on the wall or the floor, and additional configurations are available.</p>
+							<p>The ducted split system’s AC outdoor unit has a compressor and a condenser. The indoor unit has an air handler. The drain to hold condensation connects these two units. There is also a copper refrigerant tubing and a power cable in this set.</p>
+							<p>A split system is not like a packaged unit. In the latter, all components are fitted into a cabinet. They are different from a standard window unit as well that has a compressor, fan, coils and a window/wall-mounted box indoors.</p>
 						</div>
 					</div>
 				</div>
@@ -104,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of Ducted Split Units</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Advantages of Ducted Split Units</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -126,18 +122,18 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are numerous reasons to choose ducted split units, including the following:</p>
+							<p>There are several good reasons to get a ducted split unit installed, including:</p>
 							<ul>
-								<li>These systems operate quietly.</li>
-								<li>They are compact and elegant in appearance, which means they blend in well with a variety of interior features.</li>
-								<li>These ACs are energy efficient and range in power from 2kW to 10kW.</li>
-								<li>Installation is more straightforward than with conventional ducted systems.</li>
-								<li>Manufacturers typically offer a variety of refrigerant tube lengths, and you can position your indoor and the outdoor unit up to 100 feet apart.</li>
+								<li>The system has a quiet function</li>
+								<li>It is sleek, compact and elegant, blending well into various types of décor</li>
+								<li>It is energy-efficient and operates in the range of 2kW to 10kW</li>
+								<li>The installation is straightforward compared to a traditional ducted system</li>
+								<li>Brands typically provide varying refrigerant tube lengths so you can install the outdoor and indoor units at up to a distance of 100 feet from each other.</li>
 							</ul>
 
-							<p>We possess the necessary licensing, knowledge, and proficiency to perform all types of ducted split unit installations in accordance with industry standards. Our technicians are here to provide you with all the information you require about the various models and brands available, enabling you to make a more informed choice about the device to purchase.</p>
-
-							<p>For more details about our ducted split units services, please contact the expert team at Comfy First <?= $global_city ?> on- <?= $phone ?>. If you prefer to drop us a line, use this Contact Us form and one of our experts will call you shortly to discuss your project requirements.</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">High Grade Ducted Split Ac Installation</p>
+							<p>We have the licenses, expertise and training to manager ducted split system installations to in the best possible way. Our experts will discuss your requirements, offer advice and help you select a system that works best for you.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

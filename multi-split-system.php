@@ -58,19 +58,14 @@ include __DIR__ . '/src/banner.php';
 							<div class="card-body p-xxl-5 p-4">
 								<div class="row">
 									<div class="col-xxl-12">
-										<p class=" text-dark display-2 line-height-1 fw-bold">How is a <?= $global_city ?> Multiple Split System Operated?</p>
+										<p class=" text-dark display-2 line-height-1 fw-bold"><?= $banner ?></p>
 									</div>
 								</div>
-
-								<p>These are amongst the most sophisticated AC systems available today. A small outdoor unit is capable of powering six indoor units all at once. An extremely energy-efficient alternative, it can also be used to cool individual rooms if desired.</p>
-
-								<p>The majority of market leaders manufacture these products, and numerous options exist for the level of comfort you seek. These devices utilise discreet components such as cassettes, consoles and ducting. This refined, high-tech design, when combined with comprehensive air filtration, provides the ultimate in air conditioning and convenience.</p>
+								<p>If you want a versatile, efficient and reliable AC solution, consider investing in a modern multi split system. It’s one of the most preferred air con options to efficiently heat and cool multiple rooms in a home or business.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -86,9 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4"><?= $banner ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Does a Multi Split System Work?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>If you're looking for a flexible air conditioning solution, a multi split system is a good option. This is among the most extensively used air conditioning systems and is capable of efficiently heating and cooling individual rooms in a home.</p>
+							<p>These are advanced modern air conditioning systems and one compact outdoor unit has the capacity to power multiple indoor units. It’s a great option where you need to cool specific rooms at specific times. Most prominent manufacturers make these products and it gives you the flexibility to pick something that works in your premise.</p>
+							<p>One of the biggest advantages of this type of device is that the components are discreet and you get excellent air filtration and conditioning at an affordable cost. These units have unobtrusive components such as ducting, cassettes and console units. This sophisticated, high-tech design combined with a complete air filtration offers the best in comfort and cooling.</p>
 						</div>
 					</div>
 				</div>
@@ -104,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Advantages of a Multi Split System in <?= $global_city ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why You Should Install a Multi Split System in <?= $global_city ?></p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -126,17 +122,18 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are numerous advantages to using this type of air conditioning system, including the following:</p>
+							<p>There are several notable benefits of using this air conditioning system, including:</p>
 							<ul>
-								<li> Connects easily to a variety of indoor units</li>
-								<li>You have complete control over each room</li>
-								<li>Energy management operations that assist you in conserving energy and lowering your utility bills</li>
-								<li>Their slim and compact design enhances their external aesthetics</li>
-								<li>Ideal for both residential and commercial use</li>
+								<li>Easy connection options to multiple indoor units</li>
+								<li>Convenient control to each individual room</li>
+								<li>Energy setting function which help reduce power consumption and related expenses</li>
+								<li>Compact, low profile enhances external aesthetics and appearance</li>
+								<li>Ideal for business and home applications</li>
 							</ul>
-							<p>We are certified, trained, and licenced to setup multi split system ACs in accordance with manufacturer specifications. Our experts will provide you with all the information you require about a variety of popular brands and models, assisting you in making the best possible choice. Additionally, we perform air conditioning maintenance, repairs, and replacements.</p>
-
-							<p>For any details and information about our Multi Split System solutions, feel free to contact Comfy First <?= $gobal_city ?> at this number- <?= $phone ?>. You can also send us your questions and requests through this Online Form and one of our team members will contact you shortly.</p>
+							<p>We hold the required operating licences, training and expertise to handle multi split system AC installations as per the manufacturer requirements. Our expert technicians are here to give you all the details you need about prominent brands in the market and the different types of air cons they manufacture.</p>
+							<p>We will tell you what the pros and cons are so that you can make a smart purchase decision.</p>
+							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, multi split system installation, maintenance, repair, and replacement services.</p>
+							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">
