@@ -60,7 +60,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Home Automation</p>
 									</div>
 								</div>
-								<p>House automation can increase comfort while decreasing energy expenditures in your home or commercial building. We provide solutions that make it easy for you to operate, manage, and monitor your AC system. Much of the time, we combine this system and automate other appliances in your property, such as alarms, illumination, and environmental systems as well.</p>
+								<p>Home automation can improve comfort while lowering energy costs in your home or business. We offer solutions that simplify the operation, management, and monitoring of your air conditioning system. Often, we combine this system with the automation of other appliances and lighting, including alarms, security lights and environmental systems.</p>
 							</div>
 						</div>
 					</div>
@@ -80,13 +80,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">What is Home Automation in <?= $global_city ?>?</p>
+							<p class="display-5 fw-bold line-height-1  mb-4">What is Adelaide Home Automation?</p>
 							<hr class="hr-h hr-white ">
-							<p class="">Smart home solutions allow you to operate the equipment from a remote place as well as from your office or home. There are several automation systems on the market, and selecting the appropriate one might be difficult.</p>
-
-							<p>That is why we are here to assist you with all aspects of air con automation. Our staff will carefully evaluate your needs before proposing solutions that would work the best for you. After we install the system, all you have to do is download an app to your phone or Desktop to monitor, manage, and operate the unit.</p>
-
-							<p>This may be a huge benefit since you can turn on the air conditioning unit in your house while you're returning, and your house will be nice and pleasant by the time you arrive. You may choose and regulate zones in your home, which allows you to save dollars on cooling unoccupied spaces at specific times.</p>
+							<p>Smart home solutions enable you to control your equipment remotely and from within your office or home too. There are numerous automation systems available, and selecting the most appropriate one can be challenging. That is why we are available to help you with all facets of AC automation. Our employees will carefully assess your requirements before recommending the best solutions.</p>
+							<p>After we install the unit all you have to do is download a monitoring, management, and operation app to your desktop /phone to run, monitor and manage, the unit. This may be a significant benefit, as you can switch on the AC unit in your home even when you are heading back, ensuring that your home is nice and pleasant when you return. You can select and control zones in your house, which enables you to save money on cooling unused spaces at certain times.</p>
 						</div>
 					</div>
 				</div>
@@ -102,7 +99,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Choose Us?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Should You Choose Us?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -124,19 +121,17 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>There are several reasons to use our services, including:</p>
+							<p>There are numerous reasons to utilise our services, including the following:</p>
 							<ul>
-								<li>Air conditioning professionals that are fully licenced and insured</li>
-								<li>Local operators</li>
-								<li>Prompt and dependable repairs and maintenance</li>
-								<li>Serve both residential and business customers</li>
-								<li>Cutting-edge technology</li>
-								<li>100% customer service satisfaction guarantee</li>
-								<li>Leading brand automation services for brands such as Daikin, Temperzone, Fujitsu, Brivis, and Actron</li>
-								<li>Affordable services</li>
+								<li>Fully insured and certified professionals</li>
+								<li>Repairs and maintenance performed promptly and reliably</li>
+								<li>Serve both residential and commercial clients</li>
+								<li>Latest technology used</li>
+								<li>100% customer satisfaction guarantee</li>
+								<li>Brand automation solutions for Daikin, Temperzone, Fujitsu, Brivis, and Actron</li>
+								<li>Cost-effective services</li>
 							</ul>
-
-							<p>For any more details regarding our home automation services, please call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this Online Form and one of our team members will contact you shortly. </p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

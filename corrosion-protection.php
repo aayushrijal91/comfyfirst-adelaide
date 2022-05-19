@@ -61,7 +61,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Corrosion Protection</p>
 									</div>
 								</div>
-								<p>Rust may be extremely harmful to the health of your AC system. It is one of the leading reasons of malfunction and degeneration, thus corrosion prevention for air conditioners is a must-have service. We are specialists in the sector and provide the best, most affordable services to consumers in the region.</p>
+								<p>Rust is exceedingly detrimental to an air conditioning system's health and performance. As corrosion is a major cause of system failure and deterioration, corrosion protection for ACs is a necessary service.</p>
 							</div>
 						</div>
 					</div>
@@ -81,10 +81,9 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1  mb-4">Corrosion Protection <?= $global_city ?></p>
+							<p class="display-4 fw-bold line-height-1  mb-4">High-Grade Rust-Protection Solutions</p>
 							<hr class="hr-h hr-white">
-							<p>We cannot emphasise enough how critical it is for small businesses and households to have their systems repaired on a regular basis. Our company provides complete air conditioning services, such as rust prevention. This treatment entails adding an anti-corrosion coating to the AC connections and interior surfaces to safeguard them.</p>
-							<p>Our skilled experts can supply you with dependable and timely corrosion prevention solutions that will extend the lifespan of your air conditioning system, eliminating costly problems that will likely leave you stranded in misery in the thick of the summer. We offer the best services covered with guarantees so you can be sure that we are handling the job right the first time around.</p>
+							<p>Our company is specialised in this field and offer our customers the best, most cost - effective services. We cannot overstate how critical it is for every small businesses and residence to have their ACs repaired at scheduled intervals Our company offers comprehensive air conditioning services, including corrosion protection. This procedure involves coating the AC links and interior surfaces with an anti-corrosion agent to protect them.</p>
 						</div>
 					</div>
 				</div>
@@ -100,7 +99,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Why Opt For Corrosion Protection in <?= $global_city ?>?</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Benefits of Adelaide Corrosion Protection</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -121,13 +120,14 @@ include __DIR__ . '/src/banner.php';
 								<?php
 							}*/
 							?>
-							<p>We can assist you if you have newly installed a new air conditioning unit or want to maintain an existing one on your personal or business premises. There are several reasons to use our professional anti-corrosion treatment, including:</p>
+							<p>We can assist you if you have recently installed a new air con or would like to maintain an existing system on your residential or commercial property. There are a number of reasons to use our expert anti-corrosion treatment, including the following:</p>
 							<ul>
-								<li> It lowers the likelihood of corrosion on your equipment.</li>
-								<li>Rust may wreak havoc on numerous components of your air con, necessitating the replacement of those parts as well. </li>
-								<li>Why wait until the equipment begins to rust? It is preferable to take preventative actions rather than rely on reactive air conditioner upkeep and maintenance.</li>
+								<li>It significantly decreases the possibility of corrosion occurring on your equipment.</li>
+								<li>Rust can wreak havoc on a variety of air conditioning components, necessitating their replacement as well.</li>
+								<li>Why wait until rust begins to build on the equipment? Preventative measures are preferable to air conditioner repairs and replacements.</li>
 							</ul>
-							<p>For any more information about our corrosion protection services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this Online Form and one of our team members will contact you shortly. </p>
+							<p>Our knowledgeable experts can provide you with reliable and consistent corrosion prevention solutions that will help extend your air con’s life, avoiding costly problems that can leave you stuck in the heat of summer. We provide the highest quality services backed by guarantees, so you can rest assured that we would get the job done correctly the first time.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

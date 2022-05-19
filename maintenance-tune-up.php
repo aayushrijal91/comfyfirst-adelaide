@@ -61,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Maintenance Tune Up</p>
 									</div>
 								</div>
-								<p>Your air conditioning system, like all other equipment in your property, needs regular maintenance. We provide tailored, cost-effective servicing programmes to assist our home and business clients maintain their air conditioners running at peak efficiency all year. Without frequent maintenance tune-up, your system's energy efficiency and performance will get affected, placing it at danger of premature failure.</p>
+								<p>As with any other piece of technology in your property, your AC system requires maintenance tune up. We offer customised, cost-effective services to help our residential and commercial clients keep their air conditioners operating at peak efficiency throughout the year. Without routine maintenance, your air con’s performance and energy efficiency will suffer, putting it at risk of failure prematurely.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,13 +81,13 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">High-Grade Maintenance Tune Up in <?= $global_city ?></p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">Top Quality Maintenance Tune-Up in Adelaide</p>
 							<hr class="hr-h hr-white mb-xxl-5">
-							<p>Air conditioning units are a significant investment, and as a business/homeowner, you do not want to deal with a malfunction or breakdown of the system. Our comprehensive air conditioning maintenance plans are designed to provide regular service for all types of air cons. In our job, we adhere to the following procedure:</p>
+							<p>Air conditioning units are a substantial investment, and as a business or homeowner, you would not want to deal with system failure or malfunction. Our thorough AC maintenance plans are designed to ensure that all types of air conditioners receive routine service. We follow this work process:</p>
 							<ul>
-								<li>The expert will do a thorough examination of your air conditioner.</li>
-								<li>Following that, they will create a customised yearly service and maintenance contract.</li>
-								<li>Before each scheduled appointment, we will text you a reminder. We would have your unit's information in our database; this allows us to keep track of all adjustments and problems that our staff has handled.</li>
+								<li>The technician will inspect the AC.</li>
+								<li>They will then create a customised annual maintenance contract.</li>
+								<li>We will text you prior to each scheduled appointment to remind you of the visit. We would store information about your unit in our database; this allows us to keep a record of all problems and adjustments handled by our staff.</li>
 							</ul>
 						</div>
 					</div>
@@ -106,7 +104,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Main Operating Parts Inspection</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Inspection of Major Operating Components</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,21 +126,22 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>Poorly maintained machines will not perform well. Furthermore, they will have an impact on indoor air quality, generating a climate suitable to mildew and bacteria. This is why we always use a methodical approach. Our staff will check, evaluate, and service the following components:</p>
+							<p>Machines that are not properly maintained will perform poorly. Additionally, they will have an effect on the indoor air quality, creating an environment conducive to mildew and bacteria. This is why we take a systematic approach at all times. The components we will inspect, evaluate and service include:</p>
 							<ul>
-								<li>Filters</li>
 								<li>Airflow Testing</li>
-								<li>Motor</li>
-								<li>Evaporator coil</li>
-								<li>Climate control system</li>
-								<li>Condenser unit</li>
+								<li>Filters</li>
 								<li>Ventilation ducts</li>
+								<li>Motor</li>
 								<li>Cooling & heating systems</li>
-								<li>For residential systems, we clean around the outdoor unit</li>
-								<li>Inspection of outdoor AC units & cooling towers</li>
-								<li>In commercial buildings, our team will inspect and maintain the larger systems as well</li>
+								<li>Climate control system</li>
+								<li>Evaporator coil</li>
+								<li>Condenser unit</li>
+								<li>Cleaning around the outdoor unit</li>
+								<li>Inspections of outdoor AC units</li>
+								<li>Inspecting cooling towers</li>
+								<li>In commercial buildings, we inspect and maintain larger AC units</li>
 							</ul>
-							<p>For any more information about our maintenance tune up services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

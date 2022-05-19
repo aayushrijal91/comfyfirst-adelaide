@@ -60,7 +60,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Installation</p>
 									</div>
 								</div>
-								<p>Are you looking for air-con installation in <?= $global_city ?>? We are a market leader in this field, providing the best, customised solutions at the most competitive prices. Installing an air conditioner is a significant financial expenditure. It's something to consider carefully.</p>
+								<p>Are you in need of air conditioning installation in Adelaide? We are a market leader in this field, offering the highest quality, tailored services at the most affordable prices. Installing an AC is an expensive endeavour. This is something to carefully consider.</p>
 							</div>
 						</div>
 					</div>
@@ -80,17 +80,16 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">Custom Aircon Installation Solutions in <?= $global_city ?></p>
+							<p class="display-5 fw-bold line-height-1  mb-4">Professional Air Conditioning Installation in Adelaide</p>
 							<hr class="hr-h hr-white ">
-							<p>Because there are so many AC products on the market, finding the perfect pick requires some study and awareness of what actually works for your specific needs. This is where we assist:</p>
+							<p>Due to the abundance of air conditioning products on the market, selecting the ideal one requires some research and awareness of what works for your particular needs. Its where our services come in:</p>
 							<ul>
-								<li>We are knowledgeable and competent in all aspects of air conditioning installation.</li>
-								<li>We provide a comprehensive product line that includes all major air conditioning manufacturers such as Daikin, Fujitsu, Brivis, Actron, and Temperzone.</li>
-								<li>Our professionals will carry out a thorough examination of your premises, take the time to analyse which areas must be covered. They will evaluate your needs before providing advice and solutions.</li>
-								<li>We carry a variety of air con systems so you can find one that is both functional and affordable for your home.</li>
-								<li>Our team can help air condition a multi-story business structure or a single-family home.</li>
+								<li>We have extensive knowledge and expertise in all facets of AC installation.</li>
+								<li>Our company offers an extensive product line including air conditioning units from all top companies including Brivis, Actron,Daikin, Fujitsu, and Temperzone.</li>
+								<li>Our experts will conduct an in-depth inspection of your premises, taking the time to determine which areas require attention. They will assess your requirements before offering advice and solutions.</li>
+								<li>We offer a selection of air conditioning systems, ensuring that you can find something that is affordable and perfect for your home.</li>
+								<li>Our team can assist with air conditioning a multi-story commercial structures or a single-family residences.</li>
 							</ul>
-
 						</div>
 					</div>
 				</div>
@@ -106,7 +105,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Different Air Conditioning Systems Our Company Installs</p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Range of AC Installation Services</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,20 +127,19 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>As previously said, there are several air conditioning products available, and we have the knowledge, training, and ability to install window all systems, ducted, multi split, split systems, floor systems, split wall, ceiling cassette, split systems, and others.</p>
+							<p>As previously stated, there are many types of AC systems available, and we have the expertise, training, and capacity to install ducted, multi split, window wall systems, split systems, floor systems, ceiling cassette, split systems, and split wall, among others.</p>
 
-							<p>Our commercial AC installation services are of exceptionally high quality. We finish every job in accordance with the manufacturer's standards, which helps to retain the product's warranty and covers our workmanship. Our experienced installation services include the following:</p>
+							<p>Our commercial air conditioning installations are of the finest quality. We complete each job to the industry standards, which helps to maintain the product warranty and covers our handiwork. Among our skilled installation services are the following:</p>
 
 							<ul>
 								<li>Wall mounted units</li>
 								<li>Weatherproofing</li>
-								<li>Outdoor unit installation</li>
-								<li>PVC ducts to cover the electrical wires & pipes </li>
-								<li>Outdoor unit installations</li>
-								<li>Indoor unit installation</li>
+								<li>PVC ducting for covering electrical wires/pipes</li>
+								<li>Installation of outdoor systems</li>
+								<li>Installation of indoor AC units</li>
 								<li>Roofing cables</li>
 							</ul>
-							<p>For any more information about our air con installation services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

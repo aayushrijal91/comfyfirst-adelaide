@@ -60,7 +60,8 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Recharge & Leak Repairs</p>
 									</div>
 								</div>
-								<p>Gas recharge, AC re-gassing, gas top up, and gas refill are alternative terminology for the same service. Many people assume that if their air conditioner isn't chilling properly, it has to be re-gassed. This is a myth, and unprofessional operators will tell you this is necessary. They will also come and refill the gas. This is not only unnecessary, but also damaging to the environment, unless personnel perform leak fixes and recharges concurrently.</p>
+								<p>Gas recharge, air conditioning re-gassing, gas top-ups, and gas refills are all terms that refer to the same service offering. Many people believe that if their AC does not cool effectively, it must be re-gassed.</p>
+								<p>This is a misconception, and unscrupulous operators will claim that it is essential. Additionally, they will arrive and replenish the gas. This is not only redundant, but also detrimental to the ecosystem, unless personnel simultaneously perform recharge and leak repairs.</p>
 							</div>
 						</div>
 					</div>
@@ -80,16 +81,16 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">Professional Recharge & Leak Repairs in <?= $global_city ?></p>
+							<p class="display-5 fw-bold line-height-1  mb-4">Adelaide Recharge & Leak Repair Services</p>
 							<hr class="hr-h hr-white ">
-							<p>We are one of the major companies in this field, have the appropriate licences and training to provide our clients with these and various other AC maintenance services. Most clients are shocked to learn that charging the AC system without first detecting and correcting the leak is unlawful. However , we are responsible and take the following methodical approach:</p>
+							<p>We are one of the leading companies in this field, with the necessary permits and skills to provide these and other AC services to our clients. The majority of clients are surprised to learn that charging the air conditioning system without first trying to detect and fix the leak is illegal. However, we are professional and follow this procedure:</p>
 							<ul>
-								<li>As licenced and experienced experts, we do comprehensive testing and troubleshooting to determine the location of the leak before repairing it.</li>
-								<li>Once the leak has been repaired, the team will perform a nitrogen pressure test; this helps verify whether the work is perfect and there are no vulnerabilities.</li>
-								<li>The technician carefully cleans the pipes to eliminate pollutants and moisture.</li>
-								<li>They will also take particular precautions to prevent leaks in the future.</li>
-								<li>The team will re-gas your AC once they are convinced there is no gas leaking.</li>
-								<li>As legally required, we also record and closely track our gas (refrigerant) use.</li>
+								<li>As experienced professionals, we conduct extensive testing and diagnostics to pinpoint the leak's location prior to repairing it.</li>
+								<li>After repairing the leak, the team will conduct a nitrogen pressure test to ensure that the work is flawless and there are no weaknesses.</li>
+								<li>The technician meticulously cleans the pipes, removing contaminants and moisture.</li>
+								<li>Additionally, they will take special precautions to avoid future leaks.</li>
+								<li>Once they are satisfied that there is no gas leak, we will re-gas your air conditioner.</li>
+								<li>As required by law, we also carefully watch our gas (refrigerant) consumption.</li>
 							</ul>
 						</div>
 					</div>
@@ -106,7 +107,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Recharge & Leak Repairs</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Reliable Gas Leak Repairs</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,9 +129,8 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>If you discover any problems with your air con or suspect a gas leak, please call us right away. We will be at your site as soon as possible to examine, fix, and re-gas the unit.</p>
-
-							<p>For any more information about our recharge & leak repairs, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly.</p>
+							<p>If you notice any troubles with your air conditioning system or believe there is a gas leak, contact us immediately. We will dispatch a technician to your location as quickly as possible to inspect, repair, and re-gas the AC. </p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">
