@@ -84,7 +84,7 @@ include __DIR__ . '/src/banner.php';
 							<p class="display-5 fw-bold line-height-1 ">Fujitsu Air Conditioners</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Their products are durable, energy-efficient, and long lasting. With regular maintenance, these air cons can operate effectively in Adelaide's changing weather conditions for several years.</p>
+							<p>Their products are durable, energy-efficient, and long lasting. With regular maintenance, these air cons can operate effectively in <?= $global_city ?>'s changing weather conditions for several years.</p>
 						</div>
 					</div>
 				</div>
@@ -100,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Air Conditioners from Fujitsu in Adelaide</p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Air Conditioners from Fujitsu in <?= $global_city ?></p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -130,7 +130,7 @@ include __DIR__ . '/src/banner.php';
 								<li><strong>Multi split Units</strong> are ideal for homes with multiple rooms that need to be cooled/heated simultaneously. The system is made up of a single outdoor unit that is linked to a number of indoor units. You can also control each of the latter independently.</li>
 							</ul>
 							<p>We are here to make a well - informed decision about which Fujitsu AC you want in your home. Before providing insights and advice, our professionals work very closely with you to find out what works optimally for your needs. They will provide cost-effective solutions while keeping your budget in mind, ensuring that you get good value for money.</p>
-							<p>Our professionals have the competence and expertise required to install an air conditioner in accordance with manufacturer recommendations. We at Comfy First Adelaide are a leading company in this field and we offer the best Fujitsu installation, maintenance, repair, and replacement services. </p>
+							<p>Our professionals have the competence and expertise required to install an air conditioner in accordance with manufacturer recommendations. We at Comfy First <?= $global_city ?> are a leading company in this field and we offer the best Fujitsu installation, maintenance, repair, and replacement services. </p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

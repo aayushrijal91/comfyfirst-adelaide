@@ -131,7 +131,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Specific rooms can be 'Zoned' or configured to a varying comfort levels at the same time</li>
 							</ul>
 							<p>We provide customised, ducted system AC services and guarantee all of our work. Our experts will provide you with all of the information you require about these technologies and will complete the installation in accordance with the manufacturer's specifications.</p>
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, ducted system installation, maintenance, repair, and replacement services.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, ducted system installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

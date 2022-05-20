@@ -141,7 +141,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Design that promotes energy efficiency</li>
 								<li>Silent operation</li>
 							</ul>
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

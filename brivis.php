@@ -61,7 +61,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Various Brivis Air Conditioners in <?= $global_city ?></p>
 									</div>
 								</div>
-								<p>Brivis is a major air conditioner manufacturer in the country. They have been in this sector for 50 years and manufacture excellent systems. Brivis' products are engineered to survive unexpected, inclement climatic conditions, making them suitable for Adelaide's climate. They also offer a 10-year warranty on their air conditioners, and the company has received numerous awards over the years.</p>
+								<p>Brivis is a major air conditioner manufacturer in the country. They have been in this sector for 50 years and manufacture excellent systems. Brivis' products are engineered to survive unexpected, inclement climatic conditions, making them suitable for <?= $global_city ?>'s climate. They also offer a 10-year warranty on their air conditioners, and the company has received numerous awards over the years.</p>
 								<p>The company's primary series are:</p>
 								<ul>
 									<li><b>Brivis Star Pro Line</b></li>
@@ -128,7 +128,7 @@ include __DIR__ . '/src/banner.php';
 							?>
 							<p>This line combines refrigerated cooling with effective ducted gas heating, providing the best and most cost-effective climate control solution for the entire home. Brivis StarPro Ducted Gas Heaters can be used with the same company's ICETM without substituting any original vents or ducting. As a result, utilising Brivis DualComfortTM technology will save you both money and time.</p>
 							<p>Whichever Brivis AC you require, we are here to help you find the best solution. Our experts will provide you with all of the information you require about such units, enabling you to make a smart decision about the right unit for your property.</p>
-							<p>Our professionals can assess, evaluate, and install the best air conditioner for your needs. We at Comfy First Adelaide are a leading company in this field and we offer the best Brivis installation, maintenance, repair, and replacement services.</p>
+							<p>Our professionals can assess, evaluate, and install the best air conditioner for your needs. We at Comfy First <?= $global_city ?> are a leading company in this field and we offer the best Brivis installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

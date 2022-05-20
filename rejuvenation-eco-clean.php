@@ -61,7 +61,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Rejuvenation Eco Clean</p>
 									</div>
 								</div>
-								<p>Most individuals feel that the indoor environment in their home or business is clean and fresh. However, if your air con is not properly maintained, it can cause the indoor air to be far more polluted and harmful than the outdoor environment. We provide a one-of-a-kind service - Rejuvenation Eco Clean, which is a good way to maintain clean air in your business or residential property.</p>
+								<p>The majority of people believe that their home or place of business has a fresh and pristine indoor environment. However, if your AC system is not maintained properly, it can result in harmful indoor air that is more impure than the outdoor setting. We offer a unique service called Rejuvenation Eco Clean, which is an excellent way to keep the air in your business or residence clean.</p>
 							</div>
 						</div>
 					</div>
@@ -81,17 +81,17 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">The Consequences of Improperly Maintained Air Conditioners</p>
+							<p class="display-5 fw-bold line-height-1 ">The Outcomes of Improper Air Conditioner Maintenance</p>
 							<hr class="hr-h hr-white ">
 
-							<p>Neglecting to maintain and service your air conditioner can have a variety of consequences, including:</p>
+							<p>Failing to keep your air conditioner properly serviced can result in a variety of negative effects, such as:</p>
 							<ul>
-								<li> Contaminants will clog your AC coils, reducing airflow.</li>
-								<li>Dirt, grit, and dust that accumulates on the coils of the unit will impair its operation and contaminate the interior air. As a result, allergies, respiratory diseases, and other health problems may occur.</li>
-								<li>Contaminants will become trapped in the fan coil filters, causing them to freeze. This will put undue strain on your AC unit</li>
-								<li>A blockage in the coil may cause the heat exchanger to fail, and you'll have to pay extra on costly repairs.</li>
-								<li>Dirt and grime can clog the drain tray, resulting in water overflow. Your system will be severely harmed due to this.</li>
-								<li>All of these issues may be avoided with the aid of our cleaning solution. We remove all of the ugly filth and pollutant build-up from your unit during this service.</li>
+								<li>Contaminants clog your air conditioner's coils, reducing airflow.</li>
+								<li>The accumulation of dirt, grit, and dust on the AC's coils will impair its function, contaminating the interior air. As a result, allergic reactions, respiratory illnesses, and other health complications may happen.</li>
+								<li>Contaminants get trapped in the fan and coil filters, eventually freezing them. This places excessive stress on your AC unit.</li>
+								<li>A blockage in the coil may cause failure of the heat exchanger, necessitating additional repair costs.</li>
+								<li>Dust can clog the unit's drain tray, causing the water to overflow. As a result, your AC will be negatively effected.</li>
+								<li>All of these problems can be avoided by utilising our cleaning solution. During this service, we remove all of the unsightly scum and contaminant build-up from your machine.</li>
 							</ul>
 						</div>
 					</div>
@@ -108,7 +108,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">What Is the Rejuvenation Eco Clean <?= $global_city ?> Process?</p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">What Is the Process of Rejuvenation Eco Clean <?= $global_city ?>?</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -130,9 +130,9 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>Experts remove the AC filters and covers, clean any obstructions in the drainpipe and tray, and then apply a specialist chemical treatment. This removes bacteria, pathogens, fungi, dust, and grime. After that, the team will use a jet machine blast to clean the system before reassembling it.</p>
-
-							<p>For any more information about our Rejuvenation Eco Clean services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly.</p>
+							<p>Experts will remove and clean the air conditioning filters and covers, as well as any obstacles in the drainage pipe and tray, before applying a specialised chemical treatment. This method eliminates bacteria, pathogens, fungi, as well as debris and dirt. Following that, the team will wash the system with a jet machine before reassembling it.</p>
+							
+							<p>If you are looking for superior Rejuvenation Eco Clean services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need.</p>
 
 						</div>
 					</div>

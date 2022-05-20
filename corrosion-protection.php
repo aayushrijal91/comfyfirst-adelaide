@@ -99,7 +99,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Benefits of Adelaide Corrosion Protection</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">The Benefits of <?= $global_city ?> Corrosion Protection</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -127,7 +127,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Why wait until rust begins to build on the equipment? Preventative measures are preferable to air conditioner repairs and replacements.</li>
 							</ul>
 							<p>Our knowledgeable experts can provide you with reliable and consistent corrosion prevention solutions that will help extend your air con’s life, avoiding costly problems that can leave you stuck in the heat of summer. We provide the highest quality services backed by guarantees, so you can rest assured that we would get the job done correctly the first time.</p>
-							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

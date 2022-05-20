@@ -80,7 +80,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">What is Adelaide Home Automation?</p>
+							<p class="display-5 fw-bold line-height-1  mb-4">What is <?= $global_city ?> Home Automation?</p>
 							<hr class="hr-h hr-white ">
 							<p>Smart home solutions enable you to control your equipment remotely and from within your office or home too. There are numerous automation systems available, and selecting the most appropriate one can be challenging. That is why we are available to help you with all facets of AC automation. Our employees will carefully assess your requirements before recommending the best solutions.</p>
 							<p>After we install the unit all you have to do is download a monitoring, management, and operation app to your desktop /phone to run, monitor and manage, the unit. This may be a significant benefit, as you can switch on the AC unit in your home even when you are heading back, ensuring that your home is nice and pleasant when you return. You can select and control zones in your house, which enables you to save money on cooling unused spaces at certain times.</p>
@@ -131,7 +131,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Brand automation solutions for Daikin, Temperzone, Fujitsu, Brivis, and Actron</li>
 								<li>Cost-effective services</li>
 							</ul>
-							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

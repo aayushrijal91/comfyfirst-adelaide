@@ -60,7 +60,7 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Installation</p>
 									</div>
 								</div>
-								<p>Are you in need of air conditioning installation in Adelaide? We are a market leader in this field, offering the highest quality, tailored services at the most affordable prices. Installing an AC is an expensive endeavour. This is something to carefully consider.</p>
+								<p>Are you in need of air conditioning installation in <?= $global_city ?>? We are a market leader in this field, offering the highest quality, tailored services at the most affordable prices. Installing an AC is an expensive endeavour. This is something to carefully consider.</p>
 							</div>
 						</div>
 					</div>
@@ -80,7 +80,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">Professional Air Conditioning Installation in Adelaide</p>
+							<p class="display-5 fw-bold line-height-1  mb-4">Professional Air Conditioning Installation in <?= $global_city ?></p>
 							<hr class="hr-h hr-white ">
 							<p>Due to the abundance of air conditioning products on the market, selecting the ideal one requires some research and awareness of what works for your particular needs. Its where our services come in:</p>
 							<ul>
@@ -139,7 +139,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Installation of indoor AC units</li>
 								<li>Roofing cables</li>
 							</ul>
-							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

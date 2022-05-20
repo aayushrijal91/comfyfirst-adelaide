@@ -133,7 +133,7 @@ include __DIR__ . '/src/banner.php';
 								<p>Most of these units have an intelligent unit controller which ensures optimum efficiency of the system</p>
 							</ul>
 							<p>We have the resources, licencing and the skills needed to manage package unit installations using the best practices. We understand that making the right AC choice is crucial and represents a significant investment. It’s why we are here to provide you with all the information and details you need, the systems upsides, downsides, and more.</p>
-							<p>These details help you make a better informed decision about whether this would be the right air conditioning system choice. We at Comfy First Adelaide are a front-running company in this sector and we offer the best, package units installation, maintenance, repair, and replacement services.</p>
+							<p>These details help you make a better informed decision about whether this would be the right air conditioning system choice. We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, package units installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

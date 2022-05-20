@@ -81,7 +81,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">Top Quality Maintenance Tune-Up in Adelaide</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">Top Quality Maintenance Tune-Up in <?= $global_city ?></p>
 							<hr class="hr-h hr-white mb-xxl-5">
 							<p>Air conditioning units are a substantial investment, and as a business or homeowner, you would not want to deal with system failure or malfunction. Our thorough AC maintenance plans are designed to ensure that all types of air conditioners receive routine service. We follow this work process:</p>
 							<ul>
@@ -141,7 +141,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Inspecting cooling towers</li>
 								<li>In commercial buildings, we inspect and maintain larger AC units</li>
 							</ul>
-							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

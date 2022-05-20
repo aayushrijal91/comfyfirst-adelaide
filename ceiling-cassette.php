@@ -81,7 +81,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a <?= $banner ?> System in Adelaide Works</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How a <?= $banner ?> System in <?= $global_city ?> Works</p>
 							<hr class="hr-h hr-white mb-xxl-5">
 							<p>The unit has an outdoor unit outfitted with a powerful yet reliable compressor and an energy-efficient DC electric motor. This combination automatically reduces electricity bills while also easing any energy demand surges.</p>
 							<p>The interior component is suspended from the ceiling and is covered with a self-contained cassette; it evenly distributes hot/cool air in all directions. It also detects motion when someone enters the room and monitors the comfort levels based on set temperatures via a central command unit.</p>
@@ -134,7 +134,7 @@ include __DIR__ . '/src/banner.php';
 							</ul>
 							<p>If you want appropriate cooling & comfort, you need to select the appropriate AC system. Before recommending the best solutions, our competent team will first understand your needs. We provide high-quality solutions at the most reasonable prices.</p>
 
-							<p>At Comfy First Adelaide, we are a front-running company in this sector and we offer the best, ceiling cassette installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
+							<p>At Comfy First <?= $global_city ?>, we are a front-running company in this sector and we offer the best, ceiling cassette installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

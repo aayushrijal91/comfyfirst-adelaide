@@ -91,7 +91,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Estimated CO2 Sensors</li>
 								<li>Chemical CO2 Sensors</li>
 								<li>Nondispersive Infrared CO2 Sensors</li>
-								<li>Adelaide's High-Quality Car Park Supply Systems</li>
+								<li><?= $global_city ?>'s High-Quality Car Park Supply Systems</li>
 							</ul>
 						</div>
 					</div>

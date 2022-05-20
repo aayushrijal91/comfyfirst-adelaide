@@ -82,7 +82,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">Temperzone Air Conditioners in Adelaide</p>
+							<p class="display-5 fw-bold line-height-1 ">Temperzone Air Conditioners in <?= $global_city ?></p>
 							<hr class="hr-h hr-white ">
 							<p>They offer a wide variety of systems, such as the following:</p>
 							<ul>
@@ -132,7 +132,7 @@ include __DIR__ . '/src/banner.php';
 								<li><strong>Split Ducted Air Conditioning</strong> - These are extremely quiet and unobtrusive. They are efficient and provide year-round comfort. The company offers an incredible product line that caters to a wide variety of demands. The air conditioners are ideal for use in hotels, restaurants, businesses, motels, open-plan facilities, residences and offices and retail establishments. Additional locations for these include auditoriums, common workplaces, supermarkets, and retail malls.</li>
 							</ul>
 							<p>Our team has worked with Temperzone product lines in both commercial and residential setups and can provide you with any information you require. We would provide and configure these devices as specified by the manufacturer.</p>
-							<p>We at Comfy First Adelaide are a leading company in this field and we offer the best Temperzone installation, maintenance, repair, and replacement services.</p>
+							<p>We at Comfy First <?= $global_city ?> are a leading company in this field and we offer the best Temperzone installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

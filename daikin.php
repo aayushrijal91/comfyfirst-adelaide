@@ -82,7 +82,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">Daikin Air Conditioners in Adelaide</p>
+							<p class="display-5 fw-bold line-height-1 ">Daikin Air Conditioners in <?= $global_city ?></p>
 							<hr class="hr-h hr-white ">
 							<p>Split wall air conditioners are ideal for cooling a single room or spaces in the house. The brand offers several models, and you can choose either a wall-mounted or a floor-standing unit, including the following:</p>
 							<ul>
@@ -130,7 +130,7 @@ include __DIR__ . '/src/banner.php';
 								<li><strong>Multi Split Air Conditioners</strong> — Using a single outdoor unit in conjunction with multiple interior units, a multi-split AC is capable of cooling/heating multiple rooms. You have complete control over how each indoor system is configured, regulated, and controlled.</li>
 							</ul>
 							<p>We can help you with the installation of the air conditioner of your choice. Our team is ready to provide you with details about the brands and its products, so you can easily determine which the best fit is for you. They will evaluate your needs and set up an air conditioner that is optimal for your needs.</p>
-							<p>We at Comfy First Adelaide are a leading company in this field and we offer the best Daikin installation, maintenance, repair, and replacement services. </p>
+							<p>We at Comfy First <?= $global_city ?> are a leading company in this field and we offer the best Daikin installation, maintenance, repair, and replacement services. </p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

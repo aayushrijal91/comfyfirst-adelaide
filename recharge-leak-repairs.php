@@ -81,7 +81,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1  mb-4">Adelaide Recharge & Leak Repair Services</p>
+							<p class="display-5 fw-bold line-height-1  mb-4"><?= $global_city ?> Recharge & Leak Repair Services</p>
 							<hr class="hr-h hr-white ">
 							<p>We are one of the leading companies in this field, with the necessary permits and skills to provide these and other AC services to our clients. The majority of clients are surprised to learn that charging the air conditioning system without first trying to detect and fix the leak is illegal. However, we are professional and follow this procedure:</p>
 							<ul>
@@ -130,7 +130,7 @@ include __DIR__ . '/src/banner.php';
 							?>
 
 							<p>If you notice any troubles with your air conditioning system or believe there is a gas leak, contact us immediately. We will dispatch a technician to your location as quickly as possible to inspect, repair, and re-gas the AC. </p>
-							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First Adelaide at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
+							<p>If you are looking for superior <?= $banner ?> services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need. We offer customised solutions so that you get excellent value for money.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

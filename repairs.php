@@ -61,13 +61,13 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Repairs</p>
 									</div>
 								</div>
-								<p>Having comfortable interior spaces in your home or business property hinges on how the overall indoor environment is. If your air conditioning system functions efficiently, you would not have to deal with frequent repairs in <?= $global_city ?>. However, if you have neglected regular maintenance and service of the unit, it can cause a number of performance issues. In severe cases, the unit might stop working altogether.</p>
+								<p>The indoor environment has an effect on the comfort levels of the interior areas of your residence or business. If your air conditioning system operates properly and maintains a comfortable temperature in the indoor areas, you won't have to think about perpetual AC repairs in <?= $global_city ?>.</p>
+
+								<p>If, on the other hand, you have not conducted maintenance work on the equipment, you may encounter a number of performance issues. In severe cases, the AC may stop functioning completely.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,14 +83,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">Why Timely Air Conditioning Repairs Are Important </p>
+							<p class="display-5 fw-bold line-height-1 ">Why Is It Necessary To Have Air Conditioning Repairs Performed?</p>
 							<hr class="hr-h hr-white ">
-
-
-							<p>We are a leading company in the air conditioning space, offer the best maintenance, and repair solutions to residential and commercial clients. We recommend that our clients opt for annual packages to keep the systems in top form. Misuse, overuse, and neglect are all equally detrimental to your air conditioning system. </p>
-
-							<p>When we come in for regular service checks, our technicians inspect all components for signs of aging or wear. If they find some issues, they will inform you about it and carry out the air conditioning repairs promptly</p>
-
+							<p>We are the leading player in the local air conditioning industry, offering the highest quality repair and maintenance solutions to both residential and commercial customers. To keep our clients' systems in the best shape, we recommend annual maintenance contracts.</p>
+							<p>Neglect, misuse, and inattention all have a detrimental effect on your air con. When you opt for regular service inspections, our specialists inspect all components for indications of age or wear. If they uncover any issues, they will alert you and will complete the necessary repairs immediately.</p>
 						</div>
 					</div>
 				</div>
@@ -106,7 +102,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Repair of Various AC Systems </p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Repairs of a Variety of A/C Systems</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,19 +124,19 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>Timely intervention goes a long way in ensuring that no sudden problems crop up when you need the air conditioner the most. We firmly believe that preventive maintenance is the best way to keep your system’s performance, and energy-efficiency at high levels. We can repair all types of AC units such as:</p>
+							<p>Early diagnosis and fixes go a long way toward preventing unexpected problems from occurring when you need the AC the most. We are strong believers that preventive maintenance is the most efficient method of ensuring that your unit operates at peak performance and efficiency. We can service a wide variety of air cons including:</p>
 							<ul>
 								<li>Split Air Conditioners</li>
 								<li>Cassette AC Systems</li>
-								<li>Ducted Installations</li>
+								<li>Ducted Installation</li>
 								<li>Window units</li>
 								<li>Floor systems</li>
 								<li>Other</li>
 							</ul>
 
-							<p>Our highly experienced AC repair team works with all major air conditioning brands including Daikin, Fujitsu, Brivis, Actron, Temperzone, Kelvinator and more. If you are having any trouble with your residential or commercial air conditioner, or feel that it isn’t performing well, efficiently, contact us for prompt solutions. </p>
+							<p>Our highly trained AC repair technicians service all leading brands of air conditioning systems, such as Daikin, Fujitsu, Kelvinator, Brivis, Kelvinator, Actron, Fujitsu, and Temperzone. In case you are experiencing issues with your residential or business AC system, or believe it is not functioning efficiently, contact us immediately for assistance.</p>
 
-							<p>For any more information about our air conditioning repairs, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly.</p>
+							<p>If you are looking for superior air conditioning repairs, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need.</p>
 
 						</div>
 					</div>

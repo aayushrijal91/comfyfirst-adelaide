@@ -61,13 +61,11 @@ include __DIR__ . '/src/banner.php';
 										<p class=" text-dark display-2 line-height-1 fw-bold">Replacement</p>
 									</div>
 								</div>
-								<p>Most air conditioning systems are designed to last for several years. However, regular use, age, wear and tear and sometimes, neglect and misuse can affect the unit’s lifespan. An AC that isn’t functioning efficiently will consume excessive amounts of energy, resulting in high utility bills. If you find that your air conditioner is playing up very often, you might have to consider AC replacement. </p>
+								<p>The majority of air conditioners are constructed to last a long time. However, age, continuous use, abrasive wear, and, in some cases, mishandling and carelessness can all have an effect on the unit's lifespan. Inefficient air conditioners consume a disproportionate amount of energy, leading to high electricity costs. If your system frequently fails, you may want to consider AC replacement.</p>
 							</div>
 						</div>
-
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
@@ -83,14 +81,10 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">High Grade Air Conditioning Replacement in <?= $global_city ?> </p>
+							<p class="display-5 fw-bold line-height-1 ">Air Conditioning Replacement in <?= $global_city ?></p>
 							<hr class="hr-h hr-white ">
-
-
-							<p>If you find that you are dealing with frequent issues and breakdowns of your air conditioning unit, contact us today. Our team will visit your property and inspect the system thoroughly. They will check what types of issues are cropping up and how old the unit is. </p>
-
-							<p>Recurring issues can become tedious, inconvenient and costly to deal with. In such cases, replacing the system might be a better option. It’s crucial for property owners to be aware of signs, which indicate it’s time to do this. </p>
-
+							<p>Contact us immediately if your air con is frequently experiencing problems or malfunctions. Our crew will visit your home and thoroughly inspect the system. They'll investigate the nature of the issue and the age of your machine.</p>
+							<p>Recurring issues can be troublesome, time taking, and costly to resolve. In such cases, it may be preferable to replace the equipment. It is critical for property owners to be mindful of warnings that it is time to replace their system.</p>
 						</div>
 					</div>
 				</div>
@@ -106,7 +100,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Signs That You Need To Replace Your Air Conditioner </p>
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">Signs That It's Time to Replace Your Air Con</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [
@@ -128,20 +122,18 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 
-							<p>Some common indicators that you need a new AC include:</p>
+							<p>The common indicators that you should replace your air conditioner include the following:</p>
 							<ul>
-
-								<li>Frequent repairs </li>
-								<li>Excessively high electricity bills </li>
-								<li>Strange smells or noises from the unit</li>
-								<li>Unit blowing cold/hot air inconsistent to its temperature settings </li>
-								<li>Excessive moisture leaking from the unit</li>
-								<li>The AC system is short cycling</li>
+								<li>Breakdowns or repairs on a regular basis</li>
+								<li>Exorbitant energy bills</li>
+								<li>Unusual odours/noises arising from the device</li>
+								<li>The unit blows air that is either cold or hot in relation to the set temperature.</li>
+								<li>Excessive moisture evaporation from equipment</li>
+								<li>The air conditioning unit is cycling rapidly.</li>
 							</ul>
-							<p>We work with all major brands of air conditioners in <?= $global_city ?> including Brivis, Daikin, Fujitsu, Actron, Temperzone, Kelvinator etc. Whether you need a ducted, window, floor, split air conditioning system, we will provide you with detailed information and advice on various brands and models. </p>
-
-							<p>We take the time to survey your property, discuss your usage patterns and then recommend the best unit for your needs. For any more information about our air conditioning replacement services, feel free to call Comfy First <?= $global_city ?> at this number- <?= $phone ?>. You can also send us your queries and requests through this online form and one of our team members will contact you shortly. </p>
-
+							<p class="display-4 fw-bold line-height-1 mb-4 me-xxl-n5">High Grade AC Replacements</p>
+							<p>We service and repair all major brands of air conditioners, including Brivis, Actron, Daikin, Temperzone, Kelvinator, and Fujitsu. We will provide you with comprehensive advice and information on a variety of brands and different kinds of AC systems. Whether you require ducted, split window, or floor-mounted or split window air cons.</p>
+							<p>Our experts will conduct a survey of your site, discuss your usage patterns, and then recommend the system best suited to your needs. If you are looking for superior air conditioning replacement services, contact Comfy First <?= $global_city ?> at - <a href="tel:<?= $phone ?>"><?= $phone ?></a>. Alternatively, drop us a line, using this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a> and our experts will call you back to answer queries and provide you with the information you need.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

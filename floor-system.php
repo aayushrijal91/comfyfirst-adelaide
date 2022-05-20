@@ -130,7 +130,7 @@ include __DIR__ . '/src/banner.php';
 								<li>Compatible with mobile apps that make it possible to start & stop the device from any place.</li>
 							</ul>
 							<p>We are qualified, trained, and licenced to tackle the installation of floor standing systems to meet industry specifications. Our specialists will provide you with all of the information you require about leading technology, models and brands allowing you to make the best decision possible.</p>
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, floor system installation, maintenance, repair, and replacement services.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, floor system installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

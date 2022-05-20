@@ -129,7 +129,7 @@ include __DIR__ . '/src/banner.php';
 							}*/
 							?>
 							<p>As previously stated, we provide tailored ducted system installation services and back up our workmanship with guarantees. Our professionals will provide you with all of the information you require about these air conditioning units and will complete the set up as per the brand specifications. Our reliability, high quality customer services and the best product availability are unmatched on every count.</p>
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, multi system installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, multi system installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">

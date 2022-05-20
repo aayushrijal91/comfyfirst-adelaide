@@ -81,7 +81,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-5 fw-bold line-height-1 ">Kelvinator Air Conditioners in Adelaide</p>
+							<p class="display-5 fw-bold line-height-1 ">Kelvinator Air Conditioners in <?= $global_city ?></p>
 							<hr class="hr-h hr-white ">
 							<p>Kelvinator provides a diverse range of cutting-edge AC systems, including:</p>
 
@@ -127,7 +127,7 @@ include __DIR__ . '/src/banner.php';
 							?>
 							<p>You can be sure that a Kelvinator product will be of high quality, whether you want a window wall system or split wall system. Even if you purchase a top quality product from a company like Kelvinator, you will require professional and qualified installers like us to install it.</p>
 							<p>We are here to provide you with comprehensive information about these technologies and their features. Our advice assists you in making an informed purchasing decision. Our team can assess, offer advice and install the best air conditioner for your needs.</p>
-							<p>We at Comfy First Adelaide are a leading company in this field and we offer the best Kelvinator installation, maintenance, repair, and replacement services.</p>
+							<p>We at Comfy First <?= $global_city ?> are a leading company in this field and we offer the best Kelvinator installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

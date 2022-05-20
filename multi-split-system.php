@@ -132,7 +132,7 @@ include __DIR__ . '/src/banner.php';
 							</ul>
 							<p>We hold the required operating licences, training and expertise to handle multi split system AC installations as per the manufacturer requirements. Our expert technicians are here to give you all the details you need about prominent brands in the market and the different types of air cons they manufacture.</p>
 							<p>We will tell you what the pros and cons are so that you can make a smart purchase decision.</p>
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, multi split system installation, maintenance, repair, and replacement services.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, multi split system installation, maintenance, repair, and replacement services.</p>
 							<p>Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>

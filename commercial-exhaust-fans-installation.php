@@ -102,7 +102,7 @@ include __DIR__ . '/src/banner.php';
 				<div class="row align-items-center">
 					<div class="col-xxl-6">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5">Adelaide's High Grade Commercial Exhaust Fan Installations</p>
+							<p class="display-2 fw-bold line-height-1 mb-4 me-xxl-n5"><?= $global_city ?>'s High Grade Commercial Exhaust Fan Installations</p>
 							<hr class="hr-h hr-white mb-xxl-4">
 							<?php /*
 							$family = [

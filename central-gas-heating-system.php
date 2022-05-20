@@ -82,7 +82,7 @@ include __DIR__ . '/src/banner.php';
 					</div>
 					<div class="col-xxl-7">
 						<div class="py-3 py-xxl-5">
-							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Does an <?= $global_city ?> Central Gas Heating System in Adelaide Work?</p>
+							<p class="display-2 fw-bold line-height-1 mb-xxl-5 mb-4">How Does an <?= $global_city ?> Central Gas Heating System in <?= $global_city ?> Work?</p>
 							<hr class="hr-h hr-white mb-xxl-5">
 							<p>Here's how the system works:</p>
 							<p>It is made up of a heat exchanger that can run on natural gas/ LPG. Because this component is situated outside, the combustion gases are expelled into the atmosphere, without harming anyone. While working, the heat exchanger tubes draw clean, fresh outdoor air into the air intake, efficiently heating it.</p>
@@ -136,7 +136,7 @@ include __DIR__ . '/src/banner.php';
 							</ul>
 							<p>When you contact us for <?= $banner ?>, our technicians will come to your home and survey the site. They will first understand what your heating needs are, before recommending the best solutions that fit within your budget. We are a licenced and insured business that provides guaranteed services and complete customer satisfaction.</p>
 
-							<p>We at Comfy First Adelaide are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
+							<p>We at Comfy First <?= $global_city ?> are a front-running company in this sector and we offer the best, <?= $banner ?> installation, maintenance, repair, and replacement services. Feel free to contact us on <a href="tel:<?= $phone ?>"><?= $phone ?></a> or through this <a href="<?= $domain ?>/contact" target="_blank">Online Form</a>, for any information you need about air conditioning products from this brand.</p>
 						</div>
 					</div>
 					<div class="col-xxl-6 align-self-end">
