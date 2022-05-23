@@ -42,8 +42,8 @@ include __DIR__ . '/src/banner.php';
 							<?= lazyImg("$imgfolder/c3.png", randalts($alts), "mt-xxl-n4") ?>
 							<div class="card-body p-xxl-4">
 								<p class="text-white font-36 fw-bold"><i>Visit Our Office</i></p>
-								<p class="text-grey"><?=$address?></p>
-								<a href="https://www.google.com/maps/dir//6%2F8+Jullian+Cl,+Banksmeadow+NSW+2019/@-33.9487333,151.2205998,17z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6b12b165e305e303:0x348e3c8303b31274!2m2!1d151.2227885!2d-33.9487333!3e0" class="btn-danger btn w-100 py-3">Get Directions</a>
+								<p class="text-grey"><?=$global_city?></p>
+								<a href="https://www.google.com/maps/place/Comfyfirst/@-37.8358911,144.9739171,15z/data=!4m2!3m1!1s0x0:0x22d19e347b570a30?sa=X&ved=2ahUKEwiJ6s-XxvT3AhVgSGwGHTjJDEAQ_BJ6BAhFEAU" target="_blank" class="btn-danger btn w-100 py-3">Get Directions</a>
 							</div>
 						</div>
 					</div>
